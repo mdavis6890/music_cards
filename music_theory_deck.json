@@ -1,0 +1,1252 @@
+{
+  "__type__": "Deck",
+  "children": [],
+  "crowdanki_uuid": "00529364-38f5-4804-aaec-ec6b6331d969",
+  "deck_configurations": [
+    {
+      "__type__": "DeckConfig",
+      "crowdanki_uuid": "0223a6d9-19cc-46a9-a32e-ee52c1376e82",
+      "name": "Default",
+      "new": {
+        "perDay": 20
+      },
+      "rev": {
+        "perDay": 200
+      }
+    }
+  ],
+  "deck_config_uuid": "0223a6d9-19cc-46a9-a32e-ee52c1376e82",
+  "desc": "100 Music Theory Flashcards generated for Michael.",
+  "media_files": [],
+  "name": "Music Theory Essentials",
+  "note_models": [
+    {
+      "__type__": "NoteModel",
+      "crowdanki_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "flds": [
+        {
+          "name": "Front",
+          "ord": 0
+        },
+        {
+          "name": "Back",
+          "ord": 1
+        },
+        {
+          "name": "Last Updated",
+          "ord": 2
+        }
+      ],
+      "name": "Music Theory Card",
+      "tmpls": [
+        {
+          "name": "Card 1",
+          "qfmt": "<div style=\"font-family: Arial; font-size: 24px; text-align: center;\">{{Front}}</div>",
+          "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<div style=\"font-family: Arial; font-size: 20px; text-align: center;\">{{Back}}</div>\n<div style=\"font-family: Arial; font-size: 12px; color: gray; text-align: center; margin-top: 20px;\">Updated: {{Last Updated}}</div>"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "__type__": "Note",
+      "fields": [
+        "Grave",
+        "Very slow and solemn",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "tempo"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Largo",
+        "Slow and broad",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "tempo"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Lento",
+        "Slow",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "tempo"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Adagio",
+        "Slow, at ease",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "tempo"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Adagietto",
+        "Slightly faster than adagio",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "tempo"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Andante",
+        "At a walking pace",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "tempo"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Andantino",
+        "Slightly faster than andante",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "tempo"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Moderato",
+        "Moderately",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "tempo"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Allegretto",
+        "Moderately fast",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "tempo"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Allegro",
+        "Fast, quickly and bright",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "tempo"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Vivace",
+        "Lively and fast",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "tempo"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Presto",
+        "Very fast",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "tempo"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Prestissimo",
+        "Even faster than presto",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "tempo"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Accelerando (accel.)",
+        "Gradually getting faster",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "tempo_change"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Rallentando (rall.)",
+        "Gradually getting slower",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "tempo_change"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Ritardando (rit.)",
+        "Gradually getting slower",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "tempo_change"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Ritenuto (riten.)",
+        "Suddenly slower, held back",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "tempo_change"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "A tempo",
+        "Return to the original tempo",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "tempo_change"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Rubato",
+        "Flexible tempo, 'stolen' time",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "tempo_change"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Stringendo",
+        "Pressing forward, getting faster",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "tempo_change"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Pianissimo (pp)",
+        "Very soft",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "dynamics"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Piano (p)",
+        "Soft",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "dynamics"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Mezzo-piano (mp)",
+        "Moderately soft",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "dynamics"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Mezzo-forte (mf)",
+        "Moderately loud",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "dynamics"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Forte (f)",
+        "Loud",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "dynamics"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Fortissimo (ff)",
+        "Very loud",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "dynamics"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Sforzando (sfz)",
+        "Suddenly loud, forced",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "dynamics"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Crescendo <svg width=\"100\" height=\"40\" viewBox=\"0 0 100 40\"><path d=\"M 10 20 L 90 5 M 10 20 L 90 35\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
+        "Gradually getting louder",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "dynamics"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Decrescendo / Diminuendo <svg width=\"100\" height=\"40\" viewBox=\"0 0 100 40\"><path d=\"M 10 5 L 90 20 M 10 35 L 90 20\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
+        "Gradually getting softer",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "dynamics"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Rinforzando (rfz)",
+        "Suddenly reinforced",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "dynamics"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Staccato (dot above/below)",
+        "Short and detached",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "articulation"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Staccatissimo (𝄾)",
+        "Very short and detached",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "articulation"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Legato <svg width=\"100\" height=\"40\" viewBox=\"0 0 100 40\"><path d=\"M 10 30 Q 50 0 90 30\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
+        "Smooth and connected",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "articulation"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Tenuto (- above/below)",
+        "Held for its full value",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "articulation"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Marcato (^) ",
+        "Strongly accented",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "articulation"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Accent (>) ",
+        "Emphasized",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "articulation"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Portato",
+        "Semi-staccato, pulses between notes",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "articulation"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Treble Clef (𝄞)",
+        "G-clef, used for high pitches",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "symbol"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Bass Clef (𝄢)",
+        "F-clef, used for low pitches",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "symbol"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Alto Clef (𝄡)",
+        "C-clef centered on 3rd line",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "symbol"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Tenor Clef (𝄡)",
+        "C-clef centered on 4th line",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "symbol"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Grand Staff",
+        "Treble and Bass staves joined by a brace",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "symbol"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Ledger Lines",
+        "Short lines above/below the staff",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "symbol"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Bar Line",
+        "Vertical line dividing measures",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "symbol"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Double Bar Line",
+        "Two lines indicating a new section",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "symbol"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Final Bar Line",
+        "Indicates the end of the piece",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "symbol"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Common Time (𝄴)",
+        "4/4 time signature",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "rhythm"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Cut Time (𝄵)",
+        "2/2 time signature",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "rhythm"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Time Signature",
+        "Tells beats per measure and beat value",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "rhythm"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Measure / Bar",
+        "A segment of time defined by beats",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "rhythm"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Tie <svg width=\"60\" height=\"20\" viewBox=\"0 0 60 20\"><path d=\"M 5 5 Q 30 20 55 5\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
+        "Connects two notes of the same pitch",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "rhythm"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Slur <svg width=\"100\" height=\"40\" viewBox=\"0 0 100 40\"><path d=\"M 10 30 Q 50 0 90 30\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
+        "Connects notes of different pitches",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "rhythm"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Beam",
+        "Connects stems of eighth/sixteenth notes",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "rhythm"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Dot (after note)",
+        "Increases note value by half",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "rhythm"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Double Dot (after note)",
+        "Increases note value by 3/4",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "rhythm"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Trill (tr)",
+        "Rapid alternation between two notes",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "ornament"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Mordent (𝄗)",
+        "Single alternation with note above",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "ornament"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Inverted Mordent (𝄘)",
+        "Single alternation with note below",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "ornament"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Turn (𝄑)",
+        "Note above, note, note below, note",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "ornament"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Inverted Turn (𝄒)",
+        "Note below, note, note above, note",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "ornament"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Appoggiatura",
+        "Leaning note (takes half the main note value)",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "ornament"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Acciaccatura",
+        "Grace note, 'crushed' note",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "ornament"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Glissando",
+        "Continuous slide between pitches",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "ornament"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Da Capo (D.C.)",
+        "From the beginning",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "form"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Dal Segno (D.S.)",
+        "From the sign",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "form"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Segno (𝄋)",
+        "The sign used with D.S.",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "form"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Coda (𝄌)",
+        "Tail, closing section",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "form"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Fine",
+        "The end",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "form"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Repeat Sign (𝄆 𝄇)",
+        "Repeat the music between the dots",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "form"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "First Ending",
+        "Play the first time through a repeat",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "form"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Second Ending",
+        "Play the second time through a repeat",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "form"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Cantabile",
+        "In a singing style",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "expression"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Dolce",
+        "Sweetly",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "expression"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Espressivo",
+        "Expressively",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "expression"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Grazioso",
+        "Gracefully",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "expression"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Leggiero",
+        "Lightly",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "expression"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Maestoso",
+        "Majestically",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "expression"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Molto",
+        "Very, much",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "expression"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Poco a poco",
+        "Little by little",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "expression"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Sempre",
+        "Always",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "expression"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Subito",
+        "Suddenly",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "expression"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Agitato",
+        "Agitated",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "expression"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Animato",
+        "Animated",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "expression"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Brillante",
+        "Brilliant",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "expression"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Con brio",
+        "With spirit/vigor",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "expression"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Con fuoco",
+        "With fire",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "expression"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Morendo",
+        "Dying away",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "expression"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Pesante",
+        "Heavy",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "expression"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Scherzando",
+        "Joking, playful",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "expression"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Sotto voce",
+        "In an undertone, quiet",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "expression"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Tranquillo",
+        "Tranquil",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "expression"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Octave (8va)",
+        "Play an octave higher",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Octave below (8vb)",
+        "Play an octave lower",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Con sordino",
+        "With mute",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Senza sordino",
+        "Without mute",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Arpeggio <svg width=\"20\" height=\"60\" viewBox=\"0 0 20 60\"><path d=\"M 10 0 C 0 5 20 10 10 15 C 0 20 20 25 10 30 C 0 35 20 40 10 45 C 0 50 20 55 10 60\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
+        "Notes of a chord played in succession",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Fermata (𝄐)",
+        "Hold the note longer than indicated",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "G.P. (Grand Pause)",
+        "Entire ensemble pauses",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Caesura (//)",
+        "A pause or break in music",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "fields": [
+        "Simile",
+        "Continue in a similar manner",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "f41f04a4-2378-4daa-bc81-dd7fe96d0e91",
+      "tags": [
+        "other"
+      ]
+    }
+  ]
+}
