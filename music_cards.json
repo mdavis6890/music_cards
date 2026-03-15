@@ -16,7 +16,7 @@
     }
   ],
   "deck_config_uuid": "23d66125-811c-4b9b-9347-0ba46aaf4d6c",
-  "desc": "100 Music Theory Flashcards generated for Michael with stable UUIDs for updates.",
+  "desc": "168 Music Theory Flashcards generated for Michael with stable UUIDs for updates.",
   "media_files": [],
   "name": "Music Theory Essentials",
   "note_models": [
@@ -1476,6 +1476,958 @@
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "other"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "119d5d85-021f-5748-be44-2808cd48bfe5",
+      "fields": [
+        "Allargando",
+        "Broadening, getting slower and louder",
+        "Tempo",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "tempo"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "efa2832a-2780-5ef0-9842-b2f108e89c1f",
+      "fields": [
+        "Giocoso",
+        "Joyful, merry",
+        "Expression",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "expression"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "fa746066-0aa8-5eb7-8e7d-6992601ba92e",
+      "fields": [
+        "Meno Mosso",
+        "Less motion (slower)",
+        "Tempo Change",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "tempo_change"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "280ccf9d-e190-57a0-a412-5edae6d073a6",
+      "fields": [
+        "Più Mosso",
+        "More motion (faster)",
+        "Tempo Change",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "tempo_change"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "1a04f53a-2d86-5711-9cb2-ce77a891dcb6",
+      "fields": [
+        "Agnus Dei",
+        "Lamb of God (often used in Requiem/Mass)",
+        "Term",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "term"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "c9ad2e1e-57b3-5278-ba59-7bf850add1d0",
+      "fields": [
+        "Cadenza",
+        "Ornamental passage for a soloist",
+        "Form",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "form"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "67a7d862-b5fe-5d99-ba7f-c9189e677463",
+      "fields": [
+        "Concerto",
+        "Work for soloist and orchestra",
+        "Form",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "form"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "a085d905-264a-54c2-bb5b-bd57df758a74",
+      "fields": [
+        "Symphony",
+        "Large work for orchestra",
+        "Form",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "form"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "98955af0-713a-5368-9a2a-7a85acec93de",
+      "fields": [
+        "Libretto",
+        "The text of an opera",
+        "Term",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "term"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "f74433b2-b51a-5b12-a53d-e9956edfacff",
+      "fields": [
+        "Vibrato",
+        "Small fluctuation in pitch",
+        "Expression",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "expression"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "8dc42a61-e57c-5f8a-a9d0-cf24401894fe",
+      "fields": [
+        "Enharmonic",
+        "Notes that sound the same but have different names (e.g., C# and Db)",
+        "Term",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "term"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "542fb67a-87ba-58b1-afbb-1bbad194e872",
+      "fields": [
+        "Diatonic",
+        "Belonging to the current scale or key",
+        "Term",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "term"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "a8ef03e2-3d45-5ab9-8430-b8e1c1fbf9cc",
+      "fields": [
+        "Chromatic",
+        "Using notes outside the current scale/key",
+        "Term",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "term"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "eba82659-06bf-57ef-bf76-c0280db2deb8",
+      "fields": [
+        "Syncopation",
+        "Emphasizing the weak beats or off-beats",
+        "Rhythm",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "rhythm"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "6d47177e-2298-5fc6-b647-82b6da75ef4f",
+      "fields": [
+        "Transposition",
+        "Shifting music to a different pitch level",
+        "Term",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "term"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "215f53fd-67b6-55b8-9c5c-ac54dd30e680",
+      "fields": [
+        "Modulation",
+        "Changing from one key to another",
+        "Term",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "term"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "bfbf1328-8884-539b-9583-4c4df5b38533",
+      "fields": [
+        "Relative Key",
+        "Major and minor keys that share the same key signature",
+        "Term",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "term"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "61bafbe5-339f-5c9e-accd-0a4ff86a9519",
+      "fields": [
+        "Parallel Key",
+        "Major and minor keys that share the same tonic",
+        "Term",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "term"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "9f7f0044-bc99-5b7d-902b-cfc34c923448",
+      "fields": [
+        "Alberti Bass",
+        "A broken chord accompaniment pattern",
+        "Expression",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "expression"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "f72cf92d-2976-54c0-99ba-0a62192d8b4f",
+      "fields": [
+        "Ostinato",
+        "A continually repeated musical phrase or rhythm",
+        "Form",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "form"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "445c55d2-68be-541d-a576-a45ca3703b19",
+      "fields": [
+        "Sequence",
+        "Restatement of a motif at a higher or lower pitch",
+        "Form",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "form"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "fe75373c-5ff5-5493-9512-f3948fe0e38f",
+      "fields": [
+        "Inversion",
+        "Turning a melody or chord upside down",
+        "Term",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "term"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "f1c109c0-328f-599c-861f-e0079c1ac384",
+      "fields": [
+        "Cadence",
+        "A melodic or harmonic configuration that creates a sense of resolution",
+        "Form",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "form"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "9f9c4968-17c6-51d5-8dae-b1055611c42c",
+      "fields": [
+        "Picardy Third",
+        "Ending a minor-key piece with a major chord",
+        "Term",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "term"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "644c3089-acb6-5b80-b1d5-1ad945ac79f4",
+      "fields": [
+        "Motif",
+        "A short musical idea or fragment",
+        "Form",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "form"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "7c81f975-0acf-5949-b5da-8dffd526350c",
+      "fields": [
+        "Theme",
+        "A complete musical thought used as a building block",
+        "Form",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "form"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "c3dfb52f-5dbb-567a-aa70-24b26d8a5419",
+      "fields": [
+        "Counterpoint",
+        "The relationship between independent melodic lines",
+        "Form",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "form"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "1728c28c-c4dd-570f-b4ee-a96589a4e277",
+      "fields": [
+        "Fugue",
+        "A contrapuntal composition based on a main theme (subject)",
+        "Form",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "form"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "d620d6cb-a972-5921-b141-cc4ba7082f95",
+      "fields": [
+        "Suite",
+        "A collection of short musical pieces",
+        "Form",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "form"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "0af7e583-a5c8-5c96-9729-194328ef2120",
+      "fields": [
+        "Overture",
+        "An introductory piece to an opera or larger work",
+        "Form",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "form"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "77ae1737-570d-53d1-a425-1a201ed8ac8b",
+      "fields": [
+        "Oratorio",
+        "A large-scale musical work for orchestra and voices, usually on a religious theme",
+        "Form",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "form"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "a32b7dea-4d65-5d4a-8101-4434ab7b0590",
+      "fields": [
+        "Aria",
+        "A self-contained piece for a single voice, usually in an opera",
+        "Form",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "form"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "da795800-632a-59e8-9f06-0785b3f4594d",
+      "fields": [
+        "Recitative",
+        "A style of delivery in which a singer is allowed to adopt the rhythms of ordinary speech",
+        "Form",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "form"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "5594993d-9246-51f2-b10b-e532a6aa4978",
+      "fields": [
+        "Chorus",
+        "A large group of singers",
+        "Term",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "term"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "f7e00f7b-1bd7-51ed-85d2-9d3371774f91",
+      "fields": [
+        "Timbre",
+        "The quality or 'color' of a sound",
+        "Expression",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "expression"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "766cff11-cf70-5073-b392-c1ef4c9248e5",
+      "fields": [
+        "Texture",
+        "How melodic, rhythmic, and harmonic materials are combined",
+        "Term",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "term"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "5154a34b-a98d-548f-878b-5d8e20471cd4",
+      "fields": [
+        "Monophony",
+        "A single melodic line without accompaniment",
+        "Term",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "term"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "5bcf3b81-b80f-51d2-afc2-b0b83fa351ee",
+      "fields": [
+        "Polyphony",
+        "Multiple independent melodic lines",
+        "Term",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "term"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "237f3e40-e592-501d-a4a2-601a6e884270",
+      "fields": [
+        "Homophony",
+        "A primary melody with chordal accompaniment",
+        "Term",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "term"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "19d13780-b8fa-5c60-8a59-0d0d38901a95",
+      "fields": [
+        "Heterophony",
+        "Multiple versions of the same melody played simultaneously",
+        "Term",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "term"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "654e6f09-40bd-5a3e-bd9a-da693ee1dd8c",
+      "fields": [
+        "Consonance",
+        "Stable, pleasant-sounding intervals or chords",
+        "Expression",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "expression"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "60a155b3-b32a-54db-abf2-c64b833846c1",
+      "fields": [
+        "Dissonance",
+        "Unstable, harsh-sounding intervals or chords",
+        "Expression",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "expression"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "4739ba53-3b29-5352-91ff-22b06880eb93",
+      "fields": [
+        "Resolution",
+        "Movement from dissonance to consonance",
+        "Expression",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "expression"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "40701154-4d36-56b5-a7ac-0be8fed5d90a",
+      "fields": [
+        "Atonality",
+        "Absence of a tonal center or key",
+        "Term",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "term"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "352aacd6-5add-5d40-bc37-ebaf77941c1d",
+      "fields": [
+        "Bitonality",
+        "Use of two different keys simultaneously",
+        "Term",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "term"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "1ed719f5-c893-533c-a983-5234ab593ab7",
+      "fields": [
+        "Polytonality",
+        "Use of multiple keys simultaneously",
+        "Term",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "term"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "e570a192-d2ed-5652-8fcd-b4c917e7786b",
+      "fields": [
+        "Microtonality",
+        "Use of intervals smaller than a semitone",
+        "Term",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "term"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "afa1b390-0d7f-5747-9a40-0581a0f28c96",
+      "fields": [
+        "Pentatonic Scale",
+        "A five-note scale",
+        "Term",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "term"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "efcea7dc-0287-589b-b3f5-a059ba7cba6e",
+      "fields": [
+        "Whole Tone Scale",
+        "A scale consisting entirely of whole steps",
+        "Term",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "term"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "7fb5670d-658b-58ad-ba26-a84812c99f16",
+      "fields": [
+        "Chromatic Scale",
+        "A scale consisting entirely of half steps",
+        "Term",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "term"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "390dbc7c-90ae-5d91-b2d8-141e13e828f9",
+      "fields": [
+        "Octatonic Scale",
+        "An eight-note scale alternating whole and half steps",
+        "Term",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "term"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "3f857ac3-47ff-532f-b1c5-1421c562662a",
+      "fields": [
+        "♯",
+        "Sharp: Raises a note by a half step",
+        "Symbol",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "symbol"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "11d395e7-5bfe-5fcb-a209-908b40f5805f",
+      "fields": [
+        "♭",
+        "Flat: Lowers a note by a half step",
+        "Symbol",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "symbol"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "f31fb3cf-0a98-5cf5-941d-dd912752fcd2",
+      "fields": [
+        "♮",
+        "Natural: Cancels a previous sharp or flat",
+        "Symbol",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "symbol"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "87ac8f68-f015-58ed-9614-86e08113ac29",
+      "fields": [
+        "𝄪",
+        "Double Sharp: Raises a note by a whole step",
+        "Symbol",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "symbol"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "df3d330c-39f3-572a-8d02-b0d860006815",
+      "fields": [
+        "𝄫",
+        "Double Flat: Lowers a note by a whole step",
+        "Symbol",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "symbol"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "01915202-1121-5610-8125-8cf5c8ecaf67",
+      "fields": [
+        "Major Second",
+        "An interval of 2 semitones (e.g., C to D)",
+        "Interval",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "interval"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "bd25baa6-b59e-5e8b-9e06-1bea368433fc",
+      "fields": [
+        "Minor Second",
+        "An interval of 1 semitone (e.g., C to Db)",
+        "Interval",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "interval"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "bada120e-9fb5-5c3c-8440-89cd2e3218ec",
+      "fields": [
+        "Major Third",
+        "An interval of 4 semitones (e.g., C to E)",
+        "Interval",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "interval"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "975becf1-f6a8-55c2-b6fb-54dfbb44be74",
+      "fields": [
+        "Minor Third",
+        "An interval of 3 semitones (e.g., C to Eb)",
+        "Interval",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "interval"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "e3a55620-cd67-5b24-a01f-15c61b674267",
+      "fields": [
+        "Perfect Fourth",
+        "An interval of 5 semitones (e.g., C to F)",
+        "Interval",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "interval"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "ec23429b-a0e0-5caa-8ea9-252884aea175",
+      "fields": [
+        "Tritone",
+        "An interval of 6 semitones (Augmented 4th / Diminished 5th)",
+        "Interval",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "interval"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "2a663145-50e8-5e9e-ab6e-5a797d36918f",
+      "fields": [
+        "Perfect Fifth",
+        "An interval of 7 semitones (e.g., C to G)",
+        "Interval",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "interval"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "cbe90e1c-74d0-5e11-98f8-34c13b9cc346",
+      "fields": [
+        "Major Sixth",
+        "An interval of 9 semitones (e.g., C to A)",
+        "Interval",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "interval"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "1d2fc571-1ddb-5f52-834c-1136f1d3791c",
+      "fields": [
+        "Minor Sixth",
+        "An interval of 8 semitones (e.g., C to Ab)",
+        "Interval",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "interval"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "fee773a3-0475-5676-a585-a19377dd4e15",
+      "fields": [
+        "Major Seventh",
+        "An interval of 11 semitones (e.g., C to B)",
+        "Interval",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "interval"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "d3df7588-cb78-5d7c-8f11-a88908e1145b",
+      "fields": [
+        "Minor Seventh",
+        "An interval of 10 semitones (e.g., C to Bb)",
+        "Interval",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "interval"
+      ]
+    },
+    {
+      "__type__": "Note",
+      "crowdanki_uuid": "bc7e248f-42f0-5a4d-aa91-7dbd2f80bca7",
+      "fields": [
+        "Perfect Octave",
+        "An interval of 12 semitones (e.g., C to C)",
+        "Interval",
+        "2026-03-15"
+      ],
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
+      "tags": [
+        "interval"
       ]
     }
   ]

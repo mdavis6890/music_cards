@@ -1,13 +1,13 @@
 # Project Notes: Music Theory Flashcards
 
 ## Goal
-Generate 100 music theory flashcards (terms, symbols, tempo indications) in CrowdAnki JSON format for Anki import.
+Generate 150+ music theory flashcards (terms, symbols, tempo indications) in CrowdAnki JSON format for Anki import.
 
 ## Status
 - [x] Researched CrowdAnki JSON format.
-- [x] Defined 100+ music theory terms and symbols.
+- [x] Defined 168 music theory terms and symbols.
 - [x] Created `generate_deck.py` to automate JSON generation.
-- [x] Generated `music_cards.json` with 100 cards.
+- [x] Generated `music_cards.json` with 168 cards.
   - Renamed from `music_theory_deck.json` to match the directory name (`music_cards`) for CrowdAnki compatibility.
   - Fixed "missing field `sticky`" error by adding required `NoteModel` properties.
   - **Stable UUIDs**: Hardcoded `deck_uuid`, `model_uuid`, and `config_uuid` and implemented stable note UUIDs (via `uuid.uuid5`) to ensure CrowdAnki updates existing decks/notes instead of creating duplicates.
