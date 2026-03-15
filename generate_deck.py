@@ -183,7 +183,7 @@ deck = {
     "notes": notes
 }
 
-with open("music_theory_deck.json", "w", encoding="utf-8") as f:
+with open("music_cards.json", "w", encoding="utf-8") as f:
     json.dump(deck, f, indent=2, ensure_ascii=False)
 
-print("Done generating music_theory_deck.json")
+print("Done generating music_cards.json")
