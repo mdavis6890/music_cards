@@ -10,6 +10,7 @@ Generate 100 music theory flashcards (terms, symbols, tempo indications) in Crow
 - [x] Generated `music_cards.json` with 100 cards.
   - Renamed from `music_theory_deck.json` to match the directory name (`music_cards`) for CrowdAnki compatibility.
   - Fixed "missing field `sticky`" error by adding required `NoteModel` properties.
+  - **Stable UUIDs**: Hardcoded `deck_uuid`, `model_uuid`, and `config_uuid` and implemented stable note UUIDs (via `uuid.uuid5`) to ensure CrowdAnki updates existing decks/notes instead of creating duplicates.
   - Added **Category** field to each card (e.g., Tempo, Dynamics, Articulation).
   - Included **Specific numeric ranges (BPM)** for all tempo indications.
   - **Refined Layout**: Symbols (e.g., `𝄞`, `𝄐`) and abbreviations (e.g., `mf`, `accel.`) are now alone on the **Front**, with names and definitions on the **Back**.

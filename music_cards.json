@@ -16,7 +16,7 @@
     }
   ],
   "deck_config_uuid": "23d66125-811c-4b9b-9347-0ba46aaf4d6c",
-  "desc": "100 Music Theory Flashcards generated for Michael with symbols/abbreviations on front.",
+  "desc": "100 Music Theory Flashcards generated for Michael with stable UUIDs for updates.",
   "media_files": [],
   "name": "Music Theory Essentials",
   "note_models": [
@@ -80,6 +80,7 @@
   "notes": [
     {
       "__type__": "Note",
+      "crowdanki_uuid": "88719cb1-e68f-5881-b1a0-840923a63a6c",
       "fields": [
         "Grave",
         "Very slow and solemn (20–40 BPM)",
@@ -93,6 +94,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "f5a0366b-1946-5326-a771-777342eb513e",
       "fields": [
         "Largo",
         "Slow and broad (40–60 BPM)",
@@ -106,6 +108,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "f277841b-37f5-5f78-9bf4-40b22f661706",
       "fields": [
         "Lento",
         "Slow (40–60 BPM)",
@@ -119,6 +122,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "90232367-8870-5a23-b099-061f7820cdad",
       "fields": [
         "Adagio",
         "Slow, at ease (66–76 BPM)",
@@ -132,6 +136,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "4c35a614-a60f-51b1-9dc5-f2371abb0bb6",
       "fields": [
         "Adagietto",
         "Slightly faster than adagio (70–80 BPM)",
@@ -145,6 +150,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "a19fec64-06f0-5bab-ab71-62531598c76b",
       "fields": [
         "Andante",
         "At a walking pace (76–108 BPM)",
@@ -158,6 +164,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "2b8fa333-24c3-5b31-8c0e-19cb3cec8eee",
       "fields": [
         "Andantino",
         "Slightly faster than andante (80–108 BPM)",
@@ -171,6 +178,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "0770ac8d-8612-538d-8fa1-5b6a719fd5eb",
       "fields": [
         "Moderato",
         "Moderately (108–120 BPM)",
@@ -184,6 +192,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "fe58ee32-fb3f-528a-865c-399311655a88",
       "fields": [
         "Allegretto",
         "Moderately fast (112–120 BPM)",
@@ -197,6 +206,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "af6df346-44fa-576e-bb5f-648a17de68c9",
       "fields": [
         "Allegro",
         "Fast, quickly and bright (120–156 BPM)",
@@ -210,6 +220,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "eed7d8cc-ce79-56eb-837a-a9f551e12256",
       "fields": [
         "Vivace",
         "Lively and fast (156–176 BPM)",
@@ -223,6 +234,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "66cf19a4-8443-5264-b618-05423f68d4d6",
       "fields": [
         "Presto",
         "Very fast (168–200 BPM)",
@@ -236,6 +248,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "6910befd-526d-52f7-babe-d724a557662f",
       "fields": [
         "Prestissimo",
         "Even faster than presto (200+ BPM)",
@@ -249,6 +262,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "c8d67714-2d67-5a53-8a51-c79ab7c83f5f",
       "fields": [
         "accel.",
         "Accelerando: Gradually getting faster",
@@ -262,6 +276,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "844e8854-c0a5-5c9e-833e-39af1a595c15",
       "fields": [
         "rall.",
         "Rallentando: Gradually getting slower",
@@ -275,6 +290,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "fb42a599-426f-5bde-b97c-35e84fbced38",
       "fields": [
         "rit.",
         "Ritardando: Gradually getting slower",
@@ -288,6 +304,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "cf46f986-26ee-5d06-9af5-47f531fd3768",
       "fields": [
         "riten.",
         "Ritenuto: Suddenly slower, held back",
@@ -301,6 +318,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "2a050663-312f-5d87-8bd5-a8dc714ffced",
       "fields": [
         "A tempo",
         "Return to the original tempo",
@@ -314,6 +332,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "2483689c-bbc7-57ca-b239-e2b2138beb9e",
       "fields": [
         "Rubato",
         "Flexible tempo, 'stolen' time",
@@ -327,6 +346,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "c3e0bd78-60b9-527c-84c7-d3edfc6de174",
       "fields": [
         "Stringendo",
         "Pressing forward, getting faster",
@@ -340,6 +360,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "7ead6690-ba94-5e02-9db4-63b623376cf6",
       "fields": [
         "pp",
         "Pianissimo: Very soft",
@@ -353,6 +374,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "1576a367-3942-5bc1-9714-047c7bba7536",
       "fields": [
         "p",
         "Piano: Soft",
@@ -366,6 +388,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "908495f8-6aac-5547-8bc0-b4c363ae6ed9",
       "fields": [
         "mp",
         "Mezzo-piano: Moderately soft",
@@ -379,6 +402,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "54bfb3c3-74f4-51f8-be1d-36502345f1b2",
       "fields": [
         "mf",
         "Mezzo-forte: Moderately loud",
@@ -392,6 +416,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "5d656f7d-b2bb-553a-acfc-c4db4296fa3b",
       "fields": [
         "f",
         "Forte: Loud",
@@ -405,6 +430,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "ee3c3fbb-c3d4-50d9-8f26-77bc2fb51b4f",
       "fields": [
         "ff",
         "Fortissimo: Very loud",
@@ -418,6 +444,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "4bd07902-e545-51a5-a27b-af9d9ad09957",
       "fields": [
         "sfz",
         "Sforzando: Suddenly loud, forced",
@@ -431,6 +458,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "8507ac5a-3668-5f09-bff2-9b5fcad8caed",
       "fields": [
         "<svg width=\"100\" height=\"40\" viewBox=\"0 0 100 40\"><path d=\"M 10 20 L 90 5 M 10 20 L 90 35\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
         "Crescendo: Gradually getting louder",
@@ -444,6 +472,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "12111dca-94d7-512d-9e0b-1b076de59d82",
       "fields": [
         "<svg width=\"100\" height=\"40\" viewBox=\"0 0 100 40\"><path d=\"M 10 5 L 90 20 M 10 35 L 90 20\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
         "Decrescendo / Diminuendo: Gradually getting softer",
@@ -457,6 +486,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "4f38f85e-cfa9-58ca-b428-bdbb946bd9b0",
       "fields": [
         "rfz",
         "Rinforzando: Suddenly reinforced",
@@ -470,6 +500,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "582c7cd2-ab4c-506c-8b35-4ef6b2dfbd46",
       "fields": [
         ".",
         "Staccato: Short and detached (dot above/below note)",
@@ -483,6 +514,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "8bc9886b-8d38-5d53-bee8-4851f47e981c",
       "fields": [
         "𝄾",
         "Staccatissimo: Very short and detached",
@@ -496,6 +528,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "f544dcbf-f610-5059-a860-08e76f7e7acd",
       "fields": [
         "<svg width=\"100\" height=\"40\" viewBox=\"0 0 100 40\"><path d=\"M 10 30 Q 50 0 90 30\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
         "Legato: Smooth and connected",
@@ -509,6 +542,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "e47d757c-51e4-596c-bf23-0f82818dee91",
       "fields": [
         "-",
         "Tenuto: Held for its full value (line above/below note)",
@@ -522,6 +556,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "69e2fd43-bee1-5d36-936f-d7fb82de57ec",
       "fields": [
         "^",
         "Marcato: Strongly accented",
@@ -535,6 +570,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "ce05c8bc-6447-5809-9601-633b8b303022",
       "fields": [
         ">",
         "Accent: Emphasized",
@@ -548,6 +584,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "6d6a8ab8-e192-5a03-a574-873bfde5c2a0",
       "fields": [
         "Portato",
         "Semi-staccato, pulses between notes",
@@ -561,6 +598,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "40468115-0eeb-5360-aefb-490b0cf25b27",
       "fields": [
         "𝄞",
         "Treble Clef: G-clef, used for high pitches",
@@ -574,6 +612,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "13cc217c-bc6e-5cea-b83c-06f0795e0c91",
       "fields": [
         "𝄢",
         "Bass Clef: F-clef, used for low pitches",
@@ -587,6 +626,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "e6ed116c-df3a-56f0-a2ab-1e4d718037f2",
       "fields": [
         "𝄡 (on 3rd line)",
         "Alto Clef: C-clef centered on 3rd line",
@@ -600,6 +640,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "7d2fb29d-9729-5b41-ab87-0554964e53f9",
       "fields": [
         "𝄡 (on 4th line)",
         "Tenor Clef: C-clef centered on 4th line",
@@ -613,6 +654,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "97595a84-97db-5c18-a16e-53b766e9a59f",
       "fields": [
         "Grand Staff",
         "Treble and Bass staves joined by a brace",
@@ -626,6 +668,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "85cae761-d40b-5128-8fab-5b23b673544f",
       "fields": [
         "Ledger Lines",
         "Short lines above/below the staff",
@@ -639,6 +682,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "ca934687-89c2-5bde-8db6-9a5a2c92647c",
       "fields": [
         "Bar Line",
         "Vertical line dividing measures",
@@ -652,6 +696,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "69d1cd2a-40d6-5eb4-acdf-17297215a1c7",
       "fields": [
         "Double Bar Line",
         "Two lines indicating a new section",
@@ -665,6 +710,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "8bbc8f03-2d9e-5943-b69f-d91ee21f197f",
       "fields": [
         "Final Bar Line",
         "Indicates the end of the piece",
@@ -678,6 +724,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "cfa5922b-9ac9-509d-82a4-304bc15846e9",
       "fields": [
         "𝄴",
         "Common Time: 4/4 time signature",
@@ -691,6 +738,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "cee24773-4f5b-5619-89a3-2c757208bf98",
       "fields": [
         "𝄵",
         "Cut Time: 2/2 time signature",
@@ -704,6 +752,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "fcc07bda-2733-53d3-baaa-aefced23f8be",
       "fields": [
         "Time Signature",
         "Tells beats per measure and beat value",
@@ -717,6 +766,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "e2599e68-aebf-5332-812f-11d6f34ce5aa",
       "fields": [
         "Measure / Bar",
         "A segment of time defined by beats",
@@ -730,6 +780,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "00bbcb62-859c-58b8-a2ae-4dc4fc2e442f",
       "fields": [
         "<svg width=\"60\" height=\"20\" viewBox=\"0 0 60 20\"><path d=\"M 5 5 Q 30 20 55 5\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
         "Tie: Connects two notes of the same pitch",
@@ -743,6 +794,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "f544dcbf-f610-5059-a860-08e76f7e7acd",
       "fields": [
         "<svg width=\"100\" height=\"40\" viewBox=\"0 0 100 40\"><path d=\"M 10 30 Q 50 0 90 30\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
         "Slur: Connects notes of different pitches",
@@ -756,6 +808,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "bad8de26-49b6-50e2-8bec-0c439db3389f",
       "fields": [
         "Beam",
         "Connects stems of eighth/sixteenth notes",
@@ -769,6 +822,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "5ffdb3fb-5e50-5e5d-a95b-099c646c7765",
       "fields": [
         "Dot (after note)",
         "Increases note value by half",
@@ -782,6 +836,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "1c0e4f93-1f9a-5003-8841-717f1bde1365",
       "fields": [
         "Double Dot (after note)",
         "Increases note value by 3/4",
@@ -795,6 +850,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "2a5066f8-ff34-521b-b00d-b19e44b72f5d",
       "fields": [
         "tr",
         "Trill: Rapid alternation between two notes",
@@ -808,6 +864,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "6230f423-8c6e-5e4f-ab95-fae464534340",
       "fields": [
         "𝄗",
         "Mordent: Single alternation with note above",
@@ -821,6 +878,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "d01040b5-e533-5667-b191-e3d25ca6273f",
       "fields": [
         "𝄘",
         "Inverted Mordent: Single alternation with note below",
@@ -834,6 +892,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "8d5d9677-a485-51b9-96c2-f69bbe1f0b22",
       "fields": [
         "𝄑",
         "Turn: Note above, note, note below, note",
@@ -847,6 +906,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "dc930161-b13f-5f3a-98ed-9208c4239f7c",
       "fields": [
         "𝄒",
         "Inverted Turn: Note below, note, note above, note",
@@ -860,6 +920,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "2455b9b1-2dde-51e7-80b4-bd56a891fc72",
       "fields": [
         "Appoggiatura",
         "Leaning note (takes half the main note value)",
@@ -873,6 +934,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "cd89be6b-9947-5a86-862f-91b50bee3284",
       "fields": [
         "Acciaccatura",
         "Grace note, 'crushed' note",
@@ -886,6 +948,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "f7e5fde7-648a-5501-a22e-f8718a3d3ac8",
       "fields": [
         "Glissando",
         "Continuous slide between pitches",
@@ -899,6 +962,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "e57ecd3e-8086-5743-833c-08bdcf23ffc0",
       "fields": [
         "D.C.",
         "Da Capo: From the beginning",
@@ -912,6 +976,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "19ed6638-a4c5-5202-a6c8-ec95e61e2c4d",
       "fields": [
         "D.S.",
         "Dal Segno: From the sign",
@@ -925,6 +990,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "a98e9561-d1c4-5756-958c-005e6e0b50dc",
       "fields": [
         "𝄋",
         "Segno: The sign used with D.S.",
@@ -938,6 +1004,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "56d863f5-392c-5668-84d0-e64094cf793b",
       "fields": [
         "𝄌",
         "Coda: Tail, closing section",
@@ -951,6 +1018,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "023cf994-143c-5aff-9fef-8885c542bca4",
       "fields": [
         "Fine",
         "The end",
@@ -964,6 +1032,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "511f3bc3-e055-5ccb-91ae-41db2be05981",
       "fields": [
         "𝄆 𝄇",
         "Repeat Sign: Repeat the music between the dots",
@@ -977,6 +1046,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "53700c96-99c6-5fdb-be11-a3550883de20",
       "fields": [
         "First Ending",
         "Play the first time through a repeat",
@@ -990,6 +1060,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "4f4b493b-66e7-5a7f-8493-78ff96e9f256",
       "fields": [
         "Second Ending",
         "Play the second time through a repeat",
@@ -1003,6 +1074,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "9d7b2fca-83c0-5e6b-88a8-f21d097ff26b",
       "fields": [
         "Cantabile",
         "In a singing style",
@@ -1016,6 +1088,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "97c38e6c-b397-55db-9d4b-80cc062d2cc1",
       "fields": [
         "Dolce",
         "Sweetly",
@@ -1029,6 +1102,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "2c7a8642-e752-552c-8398-9c1b06f05a60",
       "fields": [
         "Espressivo",
         "Expressively",
@@ -1042,6 +1116,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "b47f4f0e-fb24-5029-8226-6dc64912979c",
       "fields": [
         "Grazioso",
         "Gracefully",
@@ -1055,6 +1130,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "c72a0c06-acf9-5511-8d0e-443376cb636f",
       "fields": [
         "Leggiero",
         "Lightly",
@@ -1068,6 +1144,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "38a0a137-e37b-5030-b9c6-f098c422afaa",
       "fields": [
         "Maestoso",
         "Majestically",
@@ -1081,6 +1158,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "d9008abb-bb2c-5aba-be09-efca565b6e2a",
       "fields": [
         "Molto",
         "Very, much",
@@ -1094,6 +1172,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "7d438f7b-96fe-5b20-a7bc-c884d35f1d0d",
       "fields": [
         "Poco a poco",
         "Little by little",
@@ -1107,6 +1186,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "f76b8990-3fcd-59c7-815f-05be3a6548c0",
       "fields": [
         "Sempre",
         "Always",
@@ -1120,6 +1200,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "f24bf8bc-6591-557c-8680-3e749b1f1091",
       "fields": [
         "Subito",
         "Suddenly",
@@ -1133,6 +1214,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "ef73be5a-74c0-53c6-abb5-344ae91d95e3",
       "fields": [
         "Agitato",
         "Agitated",
@@ -1146,6 +1228,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "b1fdac29-4f0a-5f63-93c5-0ca9b18ef01b",
       "fields": [
         "Animato",
         "Animated",
@@ -1159,6 +1242,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "2c9e9849-9de7-513d-88ed-2618de7d22d7",
       "fields": [
         "Brillante",
         "Brilliant",
@@ -1172,6 +1256,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "8deed60d-c000-581d-9782-a0031a6e4212",
       "fields": [
         "Con brio",
         "With spirit/vigor",
@@ -1185,6 +1270,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "e97d125c-d40e-54eb-bdc3-c55288908752",
       "fields": [
         "Con fuoco",
         "With fire",
@@ -1198,6 +1284,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "bf62c485-292e-5184-85f4-dbd0c0695143",
       "fields": [
         "Morendo",
         "Dying away",
@@ -1211,6 +1298,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "799e152b-f3cc-5976-8199-a092f1e09a0d",
       "fields": [
         "Pesante",
         "Heavy",
@@ -1224,6 +1312,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "9a7349c9-80d2-5780-8dd1-3012f8bc5f7b",
       "fields": [
         "Scherzando",
         "Joking, playful",
@@ -1237,6 +1326,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "ffb27646-c65d-58c9-9f28-3c8d387d8bab",
       "fields": [
         "Sotto voce",
         "In an undertone, quiet",
@@ -1250,6 +1340,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "e5966d69-05d2-500d-a85c-f21968a540dc",
       "fields": [
         "Tranquillo",
         "Tranquil",
@@ -1263,6 +1354,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "c7e5b963-559c-57cf-8506-3b92f2a408e8",
       "fields": [
         "8va",
         "Octave: Play an octave higher",
@@ -1276,6 +1368,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "09a2c67b-2f32-5216-b816-2ee9a53e5417",
       "fields": [
         "8vb",
         "Octave below: Play an octave lower",
@@ -1289,6 +1382,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "7b602378-904f-508f-a689-e052799bdf4a",
       "fields": [
         "Con sordino",
         "With mute",
@@ -1302,6 +1396,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "17f936c3-947a-54f0-9c2c-32dc967cff8e",
       "fields": [
         "Senza sordino",
         "Without mute",
@@ -1315,6 +1410,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "24ba2a7b-5d08-5f0f-8fcd-df2cf08f9142",
       "fields": [
         "<svg width=\"20\" height=\"60\" viewBox=\"0 0 20 60\"><path d=\"M 10 0 C 0 5 20 10 10 15 C 0 20 20 25 10 30 C 0 35 20 40 10 45 C 0 50 20 55 10 60\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
         "Arpeggio: Notes of a chord played in succession",
@@ -1328,6 +1424,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "d07c8331-6850-5a7c-b724-2709bc9429b5",
       "fields": [
         "𝄐",
         "Fermata: Hold the note longer than indicated",
@@ -1341,6 +1438,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "39e8f21a-49c1-5564-908e-215b5accaaea",
       "fields": [
         "G.P.",
         "Grand Pause: Entire ensemble pauses",
@@ -1354,6 +1452,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "b9b2a46b-9a6b-5ac9-a8fc-35f7f571c271",
       "fields": [
         "//",
         "Caesura: A pause or break in music",
@@ -1367,6 +1466,7 @@
     },
     {
       "__type__": "Note",
+      "crowdanki_uuid": "fd9fb649-05e9-5750-adf2-e6459eb64d7b",
       "fields": [
         "Simile",
         "Continue in a similar manner",

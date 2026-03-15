@@ -2,10 +2,13 @@ import json
 import uuid
 import datetime
 
-# Unique IDs for the deck, note model, and configuration
-deck_uuid = str(uuid.uuid4())
-model_uuid = str(uuid.uuid4())
-config_uuid = str(uuid.uuid4())
+# Hardcoded UUIDs to ensure CrowdAnki updates the existing deck/notes
+DECK_UUID = "750d1615-d202-4515-9f30-cbdc20bd101b"
+MODEL_UUID = "573afed7-aff4-4afd-8d78-b99fde01ff84"
+CONFIG_UUID = "23d66125-811c-4b9b-9347-0ba46aaf4d6c"
+
+# Namespace for generating stable note UUIDs
+NOTE_NAMESPACE = uuid.UUID(DECK_UUID)
 
 # Current date for "last updated"
 current_date = datetime.datetime.now().strftime("%Y-%m-%d")
@@ -133,34 +136,37 @@ cards_data = [
 
 notes = []
 for front, back, category, tags in cards_data[:100]:
+    # Stable note UUID based on front content
+    note_uuid = str(uuid.uuid5(NOTE_NAMESPACE, front))
     notes.append({
         "__type__": "Note",
+        "crowdanki_uuid": note_uuid,
         "fields": [front, back, category, current_date],
-        "note_model_uuid": model_uuid,
+        "note_model_uuid": MODEL_UUID,
         "tags": tags
     })
 
 deck = {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": deck_uuid,
+    "crowdanki_uuid": DECK_UUID,
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
-            "crowdanki_uuid": config_uuid,
+            "crowdanki_uuid": CONFIG_UUID,
             "name": "Default",
             "new": {"perDay": 20},
             "rev": {"perDay": 200}
         }
     ],
-    "deck_config_uuid": config_uuid,
-    "desc": "100 Music Theory Flashcards generated for Michael with symbols/abbreviations on front.",
+    "deck_config_uuid": CONFIG_UUID,
+    "desc": "100 Music Theory Flashcards generated for Michael with stable UUIDs for updates.",
     "media_files": [],
     "name": "Music Theory Essentials",
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": model_uuid,
+            "crowdanki_uuid": MODEL_UUID,
             "flds": [
                 {
                     "name": "Front",
@@ -221,4 +227,4 @@ deck = {
 with open("music_cards.json", "w", encoding="utf-8") as f:
     json.dump(deck, f, indent=2, ensure_ascii=False)
 
-print("Done generating music_cards.json with symbols/abbreviations on front.")
+print("Done generating music_cards.json with stable UUIDs.")
