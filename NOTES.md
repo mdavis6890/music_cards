@@ -12,6 +12,7 @@ Generate 100 music theory flashcards (terms, symbols, tempo indications) in Crow
   - Fixed "missing field `sticky`" error by adding required `NoteModel` properties.
   - Added **Category** field to each card (e.g., Tempo, Dynamics, Articulation).
   - Included **Specific numeric ranges (BPM)** for all tempo indications.
+  - **Refined Layout**: Symbols (e.g., `𝄞`, `𝄐`) and abbreviations (e.g., `mf`, `accel.`) are now alone on the **Front**, with names and definitions on the **Back**.
   - Includes Unicode symbols for standard notations.
   - Includes embedded SVG for complex symbols (hairpins, slurs, arpeggios).
   - Includes "Last Updated" field (2026-03-15).

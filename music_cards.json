@@ -1,11 +1,11 @@
 {
   "__type__": "Deck",
   "children": [],
-  "crowdanki_uuid": "fc271d65-b93d-4b6c-b8f0-3379e972efb2",
+  "crowdanki_uuid": "750d1615-d202-4515-9f30-cbdc20bd101b",
   "deck_configurations": [
     {
       "__type__": "DeckConfig",
-      "crowdanki_uuid": "87ada040-bde0-4228-a71b-831b4ded0f3b",
+      "crowdanki_uuid": "23d66125-811c-4b9b-9347-0ba46aaf4d6c",
       "name": "Default",
       "new": {
         "perDay": 20
@@ -15,14 +15,14 @@
       }
     }
   ],
-  "deck_config_uuid": "87ada040-bde0-4228-a71b-831b4ded0f3b",
-  "desc": "100 Music Theory Flashcards generated for Michael with categories and tempo ranges.",
+  "deck_config_uuid": "23d66125-811c-4b9b-9347-0ba46aaf4d6c",
+  "desc": "100 Music Theory Flashcards generated for Michael with symbols/abbreviations on front.",
   "media_files": [],
   "name": "Music Theory Essentials",
   "note_models": [
     {
       "__type__": "NoteModel",
-      "crowdanki_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "crowdanki_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "flds": [
         {
           "name": "Front",
@@ -71,7 +71,7 @@
         {
           "name": "Card 1",
           "ord": 0,
-          "qfmt": "<div style=\"font-family: Arial; font-size: 14px; color: gray; margin-bottom: 10px;\">{{Category}}</div><div style=\"font-family: Arial; font-size: 24px; text-align: center;\">{{Front}}</div>",
+          "qfmt": "<div style=\"font-family: Arial; font-size: 14px; color: gray; margin-bottom: 10px;\">{{Category}}</div><div style=\"font-family: Arial; font-size: 32px; text-align: center;\">{{Front}}</div>",
           "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<div style=\"font-family: Arial; font-size: 20px; text-align: center;\">{{Back}}</div>\n<div style=\"font-family: Arial; font-size: 12px; color: gray; text-align: center; margin-top: 20px;\">Updated: {{Last Updated}}</div>"
         }
       ]
@@ -86,7 +86,7 @@
         "Tempo",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "tempo"
       ]
@@ -99,7 +99,7 @@
         "Tempo",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "tempo"
       ]
@@ -112,7 +112,7 @@
         "Tempo",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "tempo"
       ]
@@ -125,7 +125,7 @@
         "Tempo",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "tempo"
       ]
@@ -138,7 +138,7 @@
         "Tempo",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "tempo"
       ]
@@ -151,7 +151,7 @@
         "Tempo",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "tempo"
       ]
@@ -164,7 +164,7 @@
         "Tempo",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "tempo"
       ]
@@ -177,7 +177,7 @@
         "Tempo",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "tempo"
       ]
@@ -190,7 +190,7 @@
         "Tempo",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "tempo"
       ]
@@ -203,7 +203,7 @@
         "Tempo",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "tempo"
       ]
@@ -216,7 +216,7 @@
         "Tempo",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "tempo"
       ]
@@ -229,7 +229,7 @@
         "Tempo",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "tempo"
       ]
@@ -242,7 +242,7 @@
         "Tempo",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "tempo"
       ]
@@ -250,12 +250,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Accelerando (accel.)",
-        "Gradually getting faster",
+        "accel.",
+        "Accelerando: Gradually getting faster",
         "Tempo Change",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "tempo_change"
       ]
@@ -263,12 +263,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Rallentando (rall.)",
-        "Gradually getting slower",
+        "rall.",
+        "Rallentando: Gradually getting slower",
         "Tempo Change",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "tempo_change"
       ]
@@ -276,12 +276,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Ritardando (rit.)",
-        "Gradually getting slower",
+        "rit.",
+        "Ritardando: Gradually getting slower",
         "Tempo Change",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "tempo_change"
       ]
@@ -289,12 +289,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Ritenuto (riten.)",
-        "Suddenly slower, held back",
+        "riten.",
+        "Ritenuto: Suddenly slower, held back",
         "Tempo Change",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "tempo_change"
       ]
@@ -307,7 +307,7 @@
         "Tempo Change",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "tempo_change"
       ]
@@ -320,7 +320,7 @@
         "Tempo Change",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "tempo_change"
       ]
@@ -333,7 +333,7 @@
         "Tempo Change",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "tempo_change"
       ]
@@ -341,12 +341,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Pianissimo (pp)",
-        "Very soft",
+        "pp",
+        "Pianissimo: Very soft",
         "Dynamics",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "dynamics"
       ]
@@ -354,12 +354,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Piano (p)",
-        "Soft",
+        "p",
+        "Piano: Soft",
         "Dynamics",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "dynamics"
       ]
@@ -367,12 +367,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Mezzo-piano (mp)",
-        "Moderately soft",
+        "mp",
+        "Mezzo-piano: Moderately soft",
         "Dynamics",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "dynamics"
       ]
@@ -380,12 +380,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Mezzo-forte (mf)",
-        "Moderately loud",
+        "mf",
+        "Mezzo-forte: Moderately loud",
         "Dynamics",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "dynamics"
       ]
@@ -393,12 +393,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Forte (f)",
-        "Loud",
+        "f",
+        "Forte: Loud",
         "Dynamics",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "dynamics"
       ]
@@ -406,12 +406,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Fortissimo (ff)",
-        "Very loud",
+        "ff",
+        "Fortissimo: Very loud",
         "Dynamics",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "dynamics"
       ]
@@ -419,12 +419,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Sforzando (sfz)",
-        "Suddenly loud, forced",
+        "sfz",
+        "Sforzando: Suddenly loud, forced",
         "Dynamics",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "dynamics"
       ]
@@ -432,12 +432,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Crescendo <svg width=\"100\" height=\"40\" viewBox=\"0 0 100 40\"><path d=\"M 10 20 L 90 5 M 10 20 L 90 35\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
-        "Gradually getting louder",
+        "<svg width=\"100\" height=\"40\" viewBox=\"0 0 100 40\"><path d=\"M 10 20 L 90 5 M 10 20 L 90 35\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
+        "Crescendo: Gradually getting louder",
         "Dynamics",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "dynamics"
       ]
@@ -445,12 +445,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Decrescendo / Diminuendo <svg width=\"100\" height=\"40\" viewBox=\"0 0 100 40\"><path d=\"M 10 5 L 90 20 M 10 35 L 90 20\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
-        "Gradually getting softer",
+        "<svg width=\"100\" height=\"40\" viewBox=\"0 0 100 40\"><path d=\"M 10 5 L 90 20 M 10 35 L 90 20\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
+        "Decrescendo / Diminuendo: Gradually getting softer",
         "Dynamics",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "dynamics"
       ]
@@ -458,12 +458,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Rinforzando (rfz)",
-        "Suddenly reinforced",
+        "rfz",
+        "Rinforzando: Suddenly reinforced",
         "Dynamics",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "dynamics"
       ]
@@ -471,12 +471,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Staccato (dot above/below)",
-        "Short and detached",
+        ".",
+        "Staccato: Short and detached (dot above/below note)",
         "Articulation",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "articulation"
       ]
@@ -484,12 +484,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Staccatissimo (𝄾)",
-        "Very short and detached",
+        "𝄾",
+        "Staccatissimo: Very short and detached",
         "Articulation",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "articulation"
       ]
@@ -497,12 +497,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Legato <svg width=\"100\" height=\"40\" viewBox=\"0 0 100 40\"><path d=\"M 10 30 Q 50 0 90 30\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
-        "Smooth and connected",
+        "<svg width=\"100\" height=\"40\" viewBox=\"0 0 100 40\"><path d=\"M 10 30 Q 50 0 90 30\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
+        "Legato: Smooth and connected",
         "Articulation",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "articulation"
       ]
@@ -510,12 +510,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Tenuto (- above/below)",
-        "Held for its full value",
+        "-",
+        "Tenuto: Held for its full value (line above/below note)",
         "Articulation",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "articulation"
       ]
@@ -523,12 +523,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Marcato (^) ",
-        "Strongly accented",
+        "^",
+        "Marcato: Strongly accented",
         "Articulation",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "articulation"
       ]
@@ -536,12 +536,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Accent (>) ",
-        "Emphasized",
+        ">",
+        "Accent: Emphasized",
         "Articulation",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "articulation"
       ]
@@ -554,7 +554,7 @@
         "Articulation",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "articulation"
       ]
@@ -562,12 +562,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Treble Clef (𝄞)",
-        "G-clef, used for high pitches",
+        "𝄞",
+        "Treble Clef: G-clef, used for high pitches",
         "Symbol",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "symbol"
       ]
@@ -575,12 +575,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Bass Clef (𝄢)",
-        "F-clef, used for low pitches",
+        "𝄢",
+        "Bass Clef: F-clef, used for low pitches",
         "Symbol",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "symbol"
       ]
@@ -588,12 +588,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Alto Clef (𝄡)",
-        "C-clef centered on 3rd line",
+        "𝄡 (on 3rd line)",
+        "Alto Clef: C-clef centered on 3rd line",
         "Symbol",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "symbol"
       ]
@@ -601,12 +601,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Tenor Clef (𝄡)",
-        "C-clef centered on 4th line",
+        "𝄡 (on 4th line)",
+        "Tenor Clef: C-clef centered on 4th line",
         "Symbol",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "symbol"
       ]
@@ -619,7 +619,7 @@
         "Symbol",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "symbol"
       ]
@@ -632,7 +632,7 @@
         "Symbol",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "symbol"
       ]
@@ -645,7 +645,7 @@
         "Symbol",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "symbol"
       ]
@@ -658,7 +658,7 @@
         "Symbol",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "symbol"
       ]
@@ -671,7 +671,7 @@
         "Symbol",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "symbol"
       ]
@@ -679,12 +679,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Common Time (𝄴)",
-        "4/4 time signature",
+        "𝄴",
+        "Common Time: 4/4 time signature",
         "Rhythm",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "rhythm"
       ]
@@ -692,12 +692,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Cut Time (𝄵)",
-        "2/2 time signature",
+        "𝄵",
+        "Cut Time: 2/2 time signature",
         "Rhythm",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "rhythm"
       ]
@@ -710,7 +710,7 @@
         "Rhythm",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "rhythm"
       ]
@@ -723,7 +723,7 @@
         "Rhythm",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "rhythm"
       ]
@@ -731,12 +731,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Tie <svg width=\"60\" height=\"20\" viewBox=\"0 0 60 20\"><path d=\"M 5 5 Q 30 20 55 5\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
-        "Connects two notes of the same pitch",
+        "<svg width=\"60\" height=\"20\" viewBox=\"0 0 60 20\"><path d=\"M 5 5 Q 30 20 55 5\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
+        "Tie: Connects two notes of the same pitch",
         "Rhythm",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "rhythm"
       ]
@@ -744,12 +744,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Slur <svg width=\"100\" height=\"40\" viewBox=\"0 0 100 40\"><path d=\"M 10 30 Q 50 0 90 30\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
-        "Connects notes of different pitches",
+        "<svg width=\"100\" height=\"40\" viewBox=\"0 0 100 40\"><path d=\"M 10 30 Q 50 0 90 30\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
+        "Slur: Connects notes of different pitches",
         "Rhythm",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "rhythm"
       ]
@@ -762,7 +762,7 @@
         "Rhythm",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "rhythm"
       ]
@@ -775,7 +775,7 @@
         "Rhythm",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "rhythm"
       ]
@@ -788,7 +788,7 @@
         "Rhythm",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "rhythm"
       ]
@@ -796,12 +796,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Trill (tr)",
-        "Rapid alternation between two notes",
+        "tr",
+        "Trill: Rapid alternation between two notes",
         "Ornament",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "ornament"
       ]
@@ -809,12 +809,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Mordent (𝄗)",
-        "Single alternation with note above",
+        "𝄗",
+        "Mordent: Single alternation with note above",
         "Ornament",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "ornament"
       ]
@@ -822,12 +822,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Inverted Mordent (𝄘)",
-        "Single alternation with note below",
+        "𝄘",
+        "Inverted Mordent: Single alternation with note below",
         "Ornament",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "ornament"
       ]
@@ -835,12 +835,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Turn (𝄑)",
-        "Note above, note, note below, note",
+        "𝄑",
+        "Turn: Note above, note, note below, note",
         "Ornament",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "ornament"
       ]
@@ -848,12 +848,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Inverted Turn (𝄒)",
-        "Note below, note, note above, note",
+        "𝄒",
+        "Inverted Turn: Note below, note, note above, note",
         "Ornament",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "ornament"
       ]
@@ -866,7 +866,7 @@
         "Ornament",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "ornament"
       ]
@@ -879,7 +879,7 @@
         "Ornament",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "ornament"
       ]
@@ -892,7 +892,7 @@
         "Ornament",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "ornament"
       ]
@@ -900,12 +900,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Da Capo (D.C.)",
-        "From the beginning",
+        "D.C.",
+        "Da Capo: From the beginning",
         "Form",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "form"
       ]
@@ -913,12 +913,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Dal Segno (D.S.)",
-        "From the sign",
+        "D.S.",
+        "Dal Segno: From the sign",
         "Form",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "form"
       ]
@@ -926,12 +926,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Segno (𝄋)",
-        "The sign used with D.S.",
+        "𝄋",
+        "Segno: The sign used with D.S.",
         "Form",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "form"
       ]
@@ -939,12 +939,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Coda (𝄌)",
-        "Tail, closing section",
+        "𝄌",
+        "Coda: Tail, closing section",
         "Form",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "form"
       ]
@@ -957,7 +957,7 @@
         "Form",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "form"
       ]
@@ -965,12 +965,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Repeat Sign (𝄆 𝄇)",
-        "Repeat the music between the dots",
+        "𝄆 𝄇",
+        "Repeat Sign: Repeat the music between the dots",
         "Form",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "form"
       ]
@@ -983,7 +983,7 @@
         "Form",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "form"
       ]
@@ -996,7 +996,7 @@
         "Form",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "form"
       ]
@@ -1009,7 +1009,7 @@
         "Expression",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "expression"
       ]
@@ -1022,7 +1022,7 @@
         "Expression",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "expression"
       ]
@@ -1035,7 +1035,7 @@
         "Expression",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "expression"
       ]
@@ -1048,7 +1048,7 @@
         "Expression",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "expression"
       ]
@@ -1061,7 +1061,7 @@
         "Expression",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "expression"
       ]
@@ -1074,7 +1074,7 @@
         "Expression",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "expression"
       ]
@@ -1087,7 +1087,7 @@
         "Expression",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "expression"
       ]
@@ -1100,7 +1100,7 @@
         "Expression",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "expression"
       ]
@@ -1113,7 +1113,7 @@
         "Expression",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "expression"
       ]
@@ -1126,7 +1126,7 @@
         "Expression",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "expression"
       ]
@@ -1139,7 +1139,7 @@
         "Expression",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "expression"
       ]
@@ -1152,7 +1152,7 @@
         "Expression",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "expression"
       ]
@@ -1165,7 +1165,7 @@
         "Expression",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "expression"
       ]
@@ -1178,7 +1178,7 @@
         "Expression",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "expression"
       ]
@@ -1191,7 +1191,7 @@
         "Expression",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "expression"
       ]
@@ -1204,7 +1204,7 @@
         "Expression",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "expression"
       ]
@@ -1217,7 +1217,7 @@
         "Expression",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "expression"
       ]
@@ -1230,7 +1230,7 @@
         "Expression",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "expression"
       ]
@@ -1243,7 +1243,7 @@
         "Expression",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "expression"
       ]
@@ -1256,7 +1256,7 @@
         "Expression",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "expression"
       ]
@@ -1264,12 +1264,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Octave (8va)",
-        "Play an octave higher",
+        "8va",
+        "Octave: Play an octave higher",
         "Other",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "other"
       ]
@@ -1277,12 +1277,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Octave below (8vb)",
-        "Play an octave lower",
+        "8vb",
+        "Octave below: Play an octave lower",
         "Other",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "other"
       ]
@@ -1295,7 +1295,7 @@
         "Other",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "other"
       ]
@@ -1308,7 +1308,7 @@
         "Other",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "other"
       ]
@@ -1316,12 +1316,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Arpeggio <svg width=\"20\" height=\"60\" viewBox=\"0 0 20 60\"><path d=\"M 10 0 C 0 5 20 10 10 15 C 0 20 20 25 10 30 C 0 35 20 40 10 45 C 0 50 20 55 10 60\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
-        "Notes of a chord played in succession",
+        "<svg width=\"20\" height=\"60\" viewBox=\"0 0 20 60\"><path d=\"M 10 0 C 0 5 20 10 10 15 C 0 20 20 25 10 30 C 0 35 20 40 10 45 C 0 50 20 55 10 60\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
+        "Arpeggio: Notes of a chord played in succession",
         "Other",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "other"
       ]
@@ -1329,12 +1329,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Fermata (𝄐)",
-        "Hold the note longer than indicated",
+        "𝄐",
+        "Fermata: Hold the note longer than indicated",
         "Other",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "other"
       ]
@@ -1342,12 +1342,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "G.P. (Grand Pause)",
-        "Entire ensemble pauses",
+        "G.P.",
+        "Grand Pause: Entire ensemble pauses",
         "Other",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "other"
       ]
@@ -1355,12 +1355,12 @@
     {
       "__type__": "Note",
       "fields": [
-        "Caesura (//)",
-        "A pause or break in music",
+        "//",
+        "Caesura: A pause or break in music",
         "Other",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "other"
       ]
@@ -1373,7 +1373,7 @@
         "Other",
         "2026-03-15"
       ],
-      "note_model_uuid": "a14addd6-2c65-425c-9f55-49e4758963d6",
+      "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
         "other"
       ]
