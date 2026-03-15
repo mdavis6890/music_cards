@@ -9,6 +9,7 @@ Generate 100 music theory flashcards (terms, symbols, tempo indications) in Crow
 - [x] Created `generate_deck.py` to automate JSON generation.
 - [x] Generated `music_cards.json` with 100 cards.
   - Renamed from `music_theory_deck.json` to match the directory name (`music_cards`) for CrowdAnki compatibility.
+  - Fixed "missing field `sticky`" error by adding required `NoteModel` properties (`sticky`, `rtl`, `font`, `size`, `media`, `css`, etc.).
   - Includes Unicode symbols for standard notations.
   - Includes embedded SVG for complex symbols (hairpins, slurs, arpeggios).
   - Includes "Last Updated" field (2026-03-15).

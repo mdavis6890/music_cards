@@ -166,14 +166,44 @@ deck = {
             "__type__": "NoteModel",
             "crowdanki_uuid": model_uuid,
             "flds": [
-                {"name": "Front", "ord": 0},
-                {"name": "Back", "ord": 1},
-                {"name": "Last Updated", "ord": 2}
+                {
+                    "name": "Front",
+                    "ord": 0,
+                    "sticky": False,
+                    "rtl": False,
+                    "font": "Arial",
+                    "size": 20,
+                    "media": []
+                },
+                {
+                    "name": "Back",
+                    "ord": 1,
+                    "sticky": False,
+                    "rtl": False,
+                    "font": "Arial",
+                    "size": 20,
+                    "media": []
+                },
+                {
+                    "name": "Last Updated",
+                    "ord": 2,
+                    "sticky": False,
+                    "rtl": False,
+                    "font": "Arial",
+                    "size": 20,
+                    "media": []
+                }
             ],
             "name": "Music Theory Card",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "type": 0,
+            "sortf": 0,
+            "tags": [],
+            "vers": [],
             "tmpls": [
                 {
                     "name": "Card 1",
+                    "ord": 0,
                     "qfmt": '<div style="font-family: Arial; font-size: 24px; text-align: center;">{{Front}}</div>',
                     "afmt": '{{FrontSide}}\n\n<hr id=answer>\n\n<div style="font-family: Arial; font-size: 20px; text-align: center;">{{Back}}</div>\n<div style="font-family: Arial; font-size: 12px; color: gray; text-align: center; margin-top: 20px;">Updated: {{Last Updated}}</div>'
                 }
