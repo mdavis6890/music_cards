@@ -199,6 +199,7 @@ for front, back, category, tags in cards_data:
     notes.append({
         "__type__": "Note",
         "crowdanki_uuid": note_uuid,
+        "guid": note_uuid[:10],
         "fields": [front, back, category, current_date],
         "note_model_uuid": MODEL_UUID,
         "tags": tags
