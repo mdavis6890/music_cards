@@ -53,7 +53,7 @@ cards_data = [
     (SVG_DECRESCENDO, "Decrescendo / Diminuendo: Gradually getting softer", "Dynamics", ["dynamics"]),
     ("rfz", "Rinforzando: Suddenly reinforced", "Dynamics", ["dynamics"]),
     (".", "Staccato: Short and detached (dot above/below note)", "Articulation", ["articulation"]),
-    ("𝄾", "Staccatissimo: Very short and detached", "Articulation", ["articulation"]),
+    ("𝅘𝅥𝅾", "Staccatissimo: Very short and detached", "Articulation", ["articulation"]),
     (SVG_SLUR, "Legato: Smooth and connected", "Articulation", ["articulation"]),
     ("-", "Tenuto: Held for its full value (line above/below note)", "Articulation", ["articulation"]),
     ("^", "Marcato: Strongly accented", "Articulation", ["articulation"]),
