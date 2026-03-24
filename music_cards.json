@@ -560,10 +560,10 @@
     },
     {
       "__type__": "Note",
-      "crowdanki_uuid": "f544dcbf-f610-5059-a860-08e76f7e7acd",
-      "guid": "f544dcbf-f",
+      "crowdanki_uuid": "0a975e55-41c3-5077-8713-1f8c637f8b67",
+      "guid": "0a975e55-4",
       "fields": [
-        "<svg width=\"100\" height=\"40\" viewBox=\"0 0 100 40\"><path d=\"M 10 30 Q 50 0 90 30\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
+        "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><ellipse cx=\"30\" cy=\"40\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 30 40)\"/><path d=\"M 34 40 L 34 15\" stroke=\"black\" stroke-width=\"1.5\"/><ellipse cx=\"70\" cy=\"30\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 70 30)\"/><path d=\"M 74 30 L 74 10\" stroke=\"black\" stroke-width=\"1.5\"/><path d=\"M 32 45 Q 50 55 68 35\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
         "Legato: Smooth and connected",
         "Articulation",
         "2026-03-24"
@@ -830,10 +830,10 @@
     },
     {
       "__type__": "Note",
-      "crowdanki_uuid": "00bbcb62-859c-58b8-a2ae-4dc4fc2e442f",
-      "guid": "00bbcb62-8",
+      "crowdanki_uuid": "2987ed94-399d-5606-8c46-497a5a33cdb0",
+      "guid": "2987ed94-3",
       "fields": [
-        "<svg width=\"60\" height=\"20\" viewBox=\"0 0 60 20\"><path d=\"M 5 5 Q 30 20 55 5\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
+        "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><ellipse cx=\"30\" cy=\"30\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 30 30)\"/><path d=\"M 34 30 L 34 10\" stroke=\"black\" stroke-width=\"1.5\"/><ellipse cx=\"70\" cy=\"30\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 70 30)\"/><path d=\"M 74 30 L 74 10\" stroke=\"black\" stroke-width=\"1.5\"/><path d=\"M 32 35 Q 50 45 68 35\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
         "Tie: Connects two notes of the same pitch",
         "Rhythm",
         "2026-03-24"
@@ -845,10 +845,10 @@
     },
     {
       "__type__": "Note",
-      "crowdanki_uuid": "f544dcbf-f610-5059-a860-08e76f7e7acd",
-      "guid": "f544dcbf-f",
+      "crowdanki_uuid": "0a975e55-41c3-5077-8713-1f8c637f8b67",
+      "guid": "0a975e55-4",
       "fields": [
-        "<svg width=\"100\" height=\"40\" viewBox=\"0 0 100 40\"><path d=\"M 10 30 Q 50 0 90 30\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
+        "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><ellipse cx=\"30\" cy=\"40\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 30 40)\"/><path d=\"M 34 40 L 34 15\" stroke=\"black\" stroke-width=\"1.5\"/><ellipse cx=\"70\" cy=\"30\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 70 30)\"/><path d=\"M 74 30 L 74 10\" stroke=\"black\" stroke-width=\"1.5\"/><path d=\"M 32 45 Q 50 55 68 35\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
         "Slur: Connects notes of different pitches",
         "Rhythm",
         "2026-03-24"
