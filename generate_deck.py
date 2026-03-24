@@ -19,6 +19,10 @@ SVG_DECRESCENDO = '<svg width="100" height="40" viewBox="0 0 100 40"><path d="M 
 SVG_ARPEGGIO = '<svg width="20" height="60" viewBox="0 0 20 60"><path d="M 10 0 C 0 5 20 10 10 15 C 0 20 20 25 10 30 C 0 35 20 40 10 45 C 0 50 20 55 10 60" fill="none" stroke="black" stroke-width="2"/></svg>'
 SVG_SLUR = '<svg width="100" height="40" viewBox="0 0 100 40"><path d="M 10 30 Q 50 0 90 30" fill="none" stroke="black" stroke-width="2"/></svg>'
 SVG_TIE = '<svg width="60" height="20" viewBox="0 0 60 20"><path d="M 5 5 Q 30 20 55 5" fill="none" stroke="black" stroke-width="2"/></svg>'
+SVG_STAFF_BG = '<path d="M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50" fill="none" stroke="gray" stroke-width="1"/>'
+SVG_BARLINE = f'<svg width="100" height="60" viewBox="0 0 100 60">{SVG_STAFF_BG}<path d="M 50 10 L 50 50" fill="none" stroke="black" stroke-width="2"/></svg>'
+SVG_DOUBLE_BARLINE = f'<svg width="100" height="60" viewBox="0 0 100 60">{SVG_STAFF_BG}<path d="M 45 10 L 45 50 M 55 10 L 55 50" fill="none" stroke="black" stroke-width="2"/></svg>'
+SVG_FINAL_BARLINE = f'<svg width="100" height="60" viewBox="0 0 100 60">{SVG_STAFF_BG}<path d="M 42 10 L 42 50" fill="none" stroke="black" stroke-width="1.5"/><path d="M 52 10 L 52 50" fill="none" stroke="black" stroke-width="5"/></svg>'
 
 # Flashcard data: (Front, Back, Category, Tags)
 cards_data = [
@@ -65,9 +69,9 @@ cards_data = [
     ("𝄡 (on 4th line)", "Tenor Clef: C-clef centered on 4th line", "Symbol", ["symbol"]),
     ("Grand Staff", "Treble and Bass staves joined by a brace", "Symbol", ["symbol"]),
     ("Ledger Lines", "Short lines above/below the staff", "Symbol", ["symbol"]),
-    ("Bar Line", "Vertical line dividing measures", "Symbol", ["symbol"]),
-    ("Double Bar Line", "Two lines indicating a new section", "Symbol", ["symbol"]),
-    ("Final Bar Line", "Indicates the end of the piece", "Symbol", ["symbol"]),
+    (SVG_BARLINE, "Bar Line: Vertical line dividing measures", "Symbol", ["symbol"]),
+    (SVG_DOUBLE_BARLINE, "Double Bar Line: Two lines indicating a new section", "Symbol", ["symbol"]),
+    (SVG_FINAL_BARLINE, "Final Bar Line: Indicates the end of the piece", "Symbol", ["symbol"]),
     ("𝄴", "Common Time: 4/4 time signature", "Rhythm", ["rhythm"]),
     ("𝄵", "Cut Time: 2/2 time signature", "Rhythm", ["rhythm"]),
     ("Time Signature", "Tells beats per measure and beat value", "Rhythm", ["rhythm"]),
