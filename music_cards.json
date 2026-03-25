@@ -983,8 +983,8 @@
       "crowdanki_uuid": "2455b9b1-2dde-51e7-80b4-bd56a891fc72",
       "guid": "2455b9b1-2",
       "fields": [
-        "Appoggiatura",
-        "Leaning note (takes half the main note value)",
+        "𝆕",
+        "Appoggiatura: Leaning note (takes half the main note value)",
         "Ornament",
         "2026-03-25"
       ],
@@ -998,8 +998,8 @@
       "crowdanki_uuid": "cd89be6b-9947-5a86-862f-91b50bee3284",
       "guid": "cd89be6b-9",
       "fields": [
-        "Acciaccatura",
-        "Grace note, 'crushed' note",
+        "𝆔",
+        "Acciaccatura: Grace note, 'crushed' note",
         "Ornament",
         "2026-03-25"
       ],
