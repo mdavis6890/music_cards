@@ -23,6 +23,8 @@ SVG_TIE = f'<svg width="100" height="60" viewBox="0 0 100 60">{SVG_STAFF_BG}<ell
 SVG_BARLINE = f'<svg width="100" height="60" viewBox="0 0 100 60">{SVG_STAFF_BG}<path d="M 50 10 L 50 50" fill="none" stroke="black" stroke-width="2"/></svg>'
 SVG_DOUBLE_BARLINE = f'<svg width="100" height="60" viewBox="0 0 100 60">{SVG_STAFF_BG}<path d="M 45 10 L 45 50 M 55 10 L 55 50" fill="none" stroke="black" stroke-width="2"/></svg>'
 SVG_FINAL_BARLINE = f'<svg width="100" height="60" viewBox="0 0 100 60">{SVG_STAFF_BG}<path d="M 42 10 L 42 50" fill="none" stroke="black" stroke-width="1.5"/><path d="M 52 10 L 52 50" fill="none" stroke="black" stroke-width="5"/></svg>'
+SVG_MORDENT_UPPER = '<svg width="60" height="30" viewBox="0 0 60 30"><path d="M 10 20 Q 15 10 20 20 Q 25 30 30 20 Q 35 10 40 20 Q 45 30 50 20" fill="none" stroke="black" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>'
+SVG_MORDENT_LOWER = '<svg width="60" height="30" viewBox="0 0 60 30"><path d="M 10 20 Q 15 10 20 20 Q 25 30 30 20 Q 35 10 40 20 Q 45 30 50 20" fill="none" stroke="black" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M 30 5 L 30 35" fill="none" stroke="black" stroke-width="2" stroke-linecap="round"/></svg>'
 
 # Flashcard data: (Front, Back, Category, Tags)
 cards_data = [
@@ -82,8 +84,8 @@ cards_data = [
     ("5ffdb3fb-5e50-5e5d-a95b-099c646c7765", "Dot (after note)", "Increases note value by half", "Rhythm", ["rhythm"]),
     ("1c0e4f93-1f9a-5003-8841-717f1bde1365", "Double Dot (after note)", "Increases note value by 3/4", "Rhythm", ["rhythm"]),
     ("2a5066f8-ff34-521b-b00d-b19e44b72f5d", "tr", "Trill: Rapid alternation between two notes", "Ornament", ["ornament"]),
-    ("6230f423-8c6e-5e4f-ab95-fae464534340", "𝄗", "Mordent: Single alternation with note above", "Ornament", ["ornament"]),
-    ("d01040b5-e533-5667-b191-e3d25ca6273f", "𝄘", "Inverted Mordent: Single alternation with note below", "Ornament", ["ornament"]),
+    ("6230f423-8c6e-5e4f-ab95-fae464534340", SVG_MORDENT_UPPER, "Upper Mordent: Single alternation with note above", "Ornament", ["ornament"]),
+    ("d01040b5-e533-5667-b191-e3d25ca6273f", SVG_MORDENT_LOWER, "Lower (Inverted) Mordent: Single alternation with note below", "Ornament", ["ornament"]),
     ("8d5d9677-a485-51b9-96c2-f69bbe1f0b22", "𝄑", "Turn: Note above, note, note below, note", "Ornament", ["ornament"]),
     ("dc930161-b13f-5f3a-98ed-9208c4239f7c", "𝄒", "Inverted Turn: Note below, note, note above, note", "Ornament", ["ornament"]),
     ("2455b9b1-2dde-51e7-80b4-bd56a891fc72", "Appoggiatura", "Leaning note (takes half the main note value)", "Ornament", ["ornament"]),
