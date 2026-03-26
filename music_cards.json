@@ -923,7 +923,7 @@
       "crowdanki_uuid": "6230f423-8c6e-5e4f-ab95-fae464534340",
       "guid": "6230f423-8",
       "fields": [
-        "<svg width=\"60\" height=\"30\" viewBox=\"0 0 60 30\"><path d=\"M 10 20 Q 15 10 20 20 Q 25 30 30 20 Q 35 10 40 20 Q 45 30 50 20\" fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>",
+        "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><ellipse cx=\"60\" cy=\"30\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 60 30)\"/><path d=\"M 64 30 L 64 5\" stroke=\"black\" stroke-width=\"1.5\"/><path d=\"M 45 10 Q 47.5 5 50 10 Q 52.5 15 55 10 Q 57.5 5 60 10 Q 62.5 15 65 10 Q 67.5 5 70 10\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>",
         "Upper Mordent: Single alternation with note above",
         "Ornament",
         "2026-03-26"
@@ -938,7 +938,7 @@
       "crowdanki_uuid": "d01040b5-e533-5667-b191-e3d25ca6273f",
       "guid": "d01040b5-e",
       "fields": [
-        "<svg width=\"60\" height=\"30\" viewBox=\"0 0 60 30\"><path d=\"M 10 20 Q 15 10 20 20 Q 25 30 30 20 Q 35 10 40 20 Q 45 30 50 20\" fill=\"none\" stroke=\"black\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M 30 5 L 30 35\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\"/></svg>",
+        "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><ellipse cx=\"60\" cy=\"30\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 60 30)\"/><path d=\"M 64 30 L 64 5\" stroke=\"black\" stroke-width=\"1.5\"/><path d=\"M 45 10 Q 47.5 5 50 10 Q 52.5 15 55 10 Q 57.5 5 60 10 Q 62.5 15 65 10 Q 67.5 5 70 10\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M 57.5 2 L 57.5 18\" fill=\"none\" stroke=\"black\" stroke-width=\"1.5\" stroke-linecap=\"round\"/></svg>",
         "Lower (Inverted) Mordent: Single alternation with note below",
         "Ornament",
         "2026-03-26"
@@ -953,7 +953,7 @@
       "crowdanki_uuid": "8d5d9677-a485-51b9-96c2-f69bbe1f0b22",
       "guid": "8d5d9677-a",
       "fields": [
-        "𝆗",
+        "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><ellipse cx=\"60\" cy=\"30\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 60 30)\"/><path d=\"M 64 30 L 64 5\" stroke=\"black\" stroke-width=\"1.5\"/><path d=\"M 45 10 Q 45 2 52.5 2 Q 60 2 60 10 Q 60 18 67.5 18 Q 75 18 75 10\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\"/></svg>",
         "Turn: Note above, note, note below, note",
         "Ornament",
         "2026-03-26"
@@ -968,7 +968,7 @@
       "crowdanki_uuid": "dc930161-b13f-5f3a-98ed-9208c4239f7c",
       "guid": "dc930161-b",
       "fields": [
-        "𝆘",
+        "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><ellipse cx=\"60\" cy=\"30\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 60 30)\"/><path d=\"M 64 30 L 64 5\" stroke=\"black\" stroke-width=\"1.5\"/><path d=\"M 45 10 Q 45 18 52.5 18 Q 60 18 60 10 Q 60 2 67.5 2 Q 75 2 75 10\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\"/></svg>",
         "Inverted Turn: Note below, note, note above, note",
         "Ornament",
         "2026-03-26"

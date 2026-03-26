@@ -35,6 +35,10 @@ SVG_ACCENT_EX = f'<svg width="100" height="60" viewBox="0 0 100 60">{SVG_STAFF_B
 SVG_DOT_EX = f'<svg width="100" height="60" viewBox="0 0 100 60">{SVG_STAFF_BG}{SVG_NOTE_G4}<circle cx="75" cy="30" r="2" fill="black"/></svg>'
 SVG_DOUBLE_DOT_EX = f'<svg width="100" height="60" viewBox="0 0 100 60">{SVG_STAFF_BG}{SVG_NOTE_G4}<circle cx="75" cy="30" r="2" fill="black"/><circle cx="85" cy="30" r="2" fill="black"/></svg>'
 SVG_FERMATA_EX = f'<svg width="100" height="60" viewBox="0 0 100 60">{SVG_STAFF_BG}{SVG_NOTE_G4}<path d="M 45 50 Q 60 35 75 50" fill="none" stroke="black" stroke-width="2"/><circle cx="60" cy="46" r="2" fill="black"/></svg>'
+SVG_MORDENT_UPPER_EX = f'<svg width="100" height="60" viewBox="0 0 100 60">{SVG_STAFF_BG}{SVG_NOTE_G4}<path d="M 45 10 Q 47.5 5 50 10 Q 52.5 15 55 10 Q 57.5 5 60 10 Q 62.5 15 65 10 Q 67.5 5 70 10" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>'
+SVG_MORDENT_LOWER_EX = f'<svg width="100" height="60" viewBox="0 0 100 60">{SVG_STAFF_BG}{SVG_NOTE_G4}<path d="M 45 10 Q 47.5 5 50 10 Q 52.5 15 55 10 Q 57.5 5 60 10 Q 62.5 15 65 10 Q 67.5 5 70 10" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M 57.5 2 L 57.5 18" fill="none" stroke="black" stroke-width="1.5" stroke-linecap="round"/></svg>'
+SVG_TURN_EX = f'<svg width="100" height="60" viewBox="0 0 100 60">{SVG_STAFF_BG}{SVG_NOTE_G4}<path d="M 45 10 Q 45 2 52.5 2 Q 60 2 60 10 Q 60 18 67.5 18 Q 75 18 75 10" fill="none" stroke="black" stroke-width="2" stroke-linecap="round"/></svg>'
+SVG_INVERTED_TURN_EX = f'<svg width="100" height="60" viewBox="0 0 100 60">{SVG_STAFF_BG}{SVG_NOTE_G4}<path d="M 45 10 Q 45 18 52.5 18 Q 60 18 60 10 Q 60 2 67.5 2 Q 75 2 75 10" fill="none" stroke="black" stroke-width="2" stroke-linecap="round"/></svg>'
 
 # Flashcard data: (Front, Back, Category, Tags)
 cards_data = [
@@ -94,10 +98,10 @@ cards_data = [
     ("5ffdb3fb-5e50-5e5d-a95b-099c646c7765", SVG_DOT_EX, "Dot (after note): Increases note value by half", "Rhythm", ["rhythm"]),
     ("1c0e4f93-1f9a-5003-8841-717f1bde1365", SVG_DOUBLE_DOT_EX, "Double Dot (after note): Increases note value by 3/4", "Rhythm", ["rhythm"]),
     ("2a5066f8-ff34-521b-b00d-b19e44b72f5d", "tr", "Trill: Rapid alternation between two notes", "Ornament", ["ornament"]),
-    ("6230f423-8c6e-5e4f-ab95-fae464534340", SVG_MORDENT_UPPER, "Upper Mordent: Single alternation with note above", "Ornament", ["ornament"]),
-    ("d01040b5-e533-5667-b191-e3d25ca6273f", SVG_MORDENT_LOWER, "Lower (Inverted) Mordent: Single alternation with note below", "Ornament", ["ornament"]),
-    ("8d5d9677-a485-51b9-96c2-f69bbe1f0b22", "𝆗", "Turn: Note above, note, note below, note", "Ornament", ["ornament"]),
-    ("dc930161-b13f-5f3a-98ed-9208c4239f7c", "𝆘", "Inverted Turn: Note below, note, note above, note", "Ornament", ["ornament"]),
+    ("6230f423-8c6e-5e4f-ab95-fae464534340", SVG_MORDENT_UPPER_EX, "Upper Mordent: Single alternation with note above", "Ornament", ["ornament"]),
+    ("d01040b5-e533-5667-b191-e3d25ca6273f", SVG_MORDENT_LOWER_EX, "Lower (Inverted) Mordent: Single alternation with note below", "Ornament", ["ornament"]),
+    ("8d5d9677-a485-51b9-96c2-f69bbe1f0b22", SVG_TURN_EX, "Turn: Note above, note, note below, note", "Ornament", ["ornament"]),
+    ("dc930161-b13f-5f3a-98ed-9208c4239f7c", SVG_INVERTED_TURN_EX, "Inverted Turn: Note below, note, note above, note", "Ornament", ["ornament"]),
     ("2455b9b1-2dde-51e7-80b4-bd56a891fc72", SVG_APPOGGIATURA, "Appoggiatura: Leaning note (takes half the main note value)", "Ornament", ["ornament"]),
     ("cd89be6b-9947-5a86-862f-91b50bee3284", SVG_ACCIACCATURA, "Acciaccatura: Grace note, 'crushed' note", "Ornament", ["ornament"]),
     ("f7e5fde7-648a-5501-a22e-f8718a3d3ac8", "Glissando", "Continuous slide between pitches", "Ornament", ["ornament"]),
