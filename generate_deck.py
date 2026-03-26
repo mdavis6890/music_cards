@@ -25,6 +25,16 @@ SVG_DOUBLE_BARLINE = f'<svg width="100" height="60" viewBox="0 0 100 60">{SVG_ST
 SVG_FINAL_BARLINE = f'<svg width="100" height="60" viewBox="0 0 100 60">{SVG_STAFF_BG}<path d="M 42 10 L 42 50" fill="none" stroke="black" stroke-width="1.5"/><path d="M 52 10 L 52 50" fill="none" stroke="black" stroke-width="5"/></svg>'
 SVG_MORDENT_UPPER = '<svg width="60" height="30" viewBox="0 0 60 30"><path d="M 10 20 Q 15 10 20 20 Q 25 30 30 20 Q 35 10 40 20 Q 45 30 50 20" fill="none" stroke="black" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>'
 SVG_MORDENT_LOWER = '<svg width="60" height="30" viewBox="0 0 60 30"><path d="M 10 20 Q 15 10 20 20 Q 25 30 30 20 Q 35 10 40 20 Q 45 30 50 20" fill="none" stroke="black" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M 30 5 L 30 35" fill="none" stroke="black" stroke-width="2" stroke-linecap="round"/></svg>'
+SVG_NOTE_G4 = '<ellipse cx="60" cy="30" rx="5" ry="4" fill="black" transform="rotate(-15 60 30)"/><path d="M 64 30 L 64 5" stroke="black" stroke-width="1.5"/>'
+SVG_APPOGGIATURA = f'<svg width="100" height="60" viewBox="0 0 100 60">{SVG_STAFF_BG}<ellipse cx="35" cy="20" rx="3.5" ry="2.8" fill="black" transform="rotate(-15 35 20)"/><path d="M 38 20 L 38 2" stroke="black" stroke-width="1"/><path d="M 35 25 Q 47 35 58 32" fill="none" stroke="black" stroke-width="1"/>{SVG_NOTE_G4}</svg>'
+SVG_ACCIACCATURA = f'<svg width="100" height="60" viewBox="0 0 100 60">{SVG_STAFF_BG}<ellipse cx="35" cy="20" rx="3.5" ry="2.8" fill="black" transform="rotate(-15 35 20)"/><path d="M 38 20 L 38 2" stroke="black" stroke-width="1"/><path d="M 32 12 L 44 4" stroke="black" stroke-width="1"/><path d="M 35 25 Q 47 35 58 32" fill="none" stroke="black" stroke-width="1"/>{SVG_NOTE_G4}</svg>'
+SVG_STACCATO_EX = f'<svg width="100" height="60" viewBox="0 0 100 60">{SVG_STAFF_BG}{SVG_NOTE_G4}<circle cx="60" cy="40" r="2" fill="black"/></svg>'
+SVG_TENUTO_EX = f'<svg width="100" height="60" viewBox="0 0 100 60">{SVG_STAFF_BG}{SVG_NOTE_G4}<path d="M 52 40 L 68 40" stroke="black" stroke-width="2"/></svg>'
+SVG_MARCATO_EX = f'<svg width="100" height="60" viewBox="0 0 100 60">{SVG_STAFF_BG}{SVG_NOTE_G4}<path d="M 54 48 L 60 40 L 66 48" fill="none" stroke="black" stroke-width="2"/></svg>'
+SVG_ACCENT_EX = f'<svg width="100" height="60" viewBox="0 0 100 60">{SVG_STAFF_BG}{SVG_NOTE_G4}<path d="M 52 40 L 68 45 L 52 50" fill="none" stroke="black" stroke-width="2"/></svg>'
+SVG_DOT_EX = f'<svg width="100" height="60" viewBox="0 0 100 60">{SVG_STAFF_BG}{SVG_NOTE_G4}<circle cx="75" cy="30" r="2" fill="black"/></svg>'
+SVG_DOUBLE_DOT_EX = f'<svg width="100" height="60" viewBox="0 0 100 60">{SVG_STAFF_BG}{SVG_NOTE_G4}<circle cx="75" cy="30" r="2" fill="black"/><circle cx="85" cy="30" r="2" fill="black"/></svg>'
+SVG_FERMATA_EX = f'<svg width="100" height="60" viewBox="0 0 100 60">{SVG_STAFF_BG}{SVG_NOTE_G4}<path d="M 45 50 Q 60 35 75 50" fill="none" stroke="black" stroke-width="2"/><circle cx="60" cy="46" r="2" fill="black"/></svg>'
 
 # Flashcard data: (Front, Back, Category, Tags)
 cards_data = [
@@ -58,12 +68,12 @@ cards_data = [
     ("8507ac5a-3668-5f09-bff2-9b5fcad8caed", SVG_CRESCENDO, "Crescendo: Gradually getting louder", "Dynamics", ["dynamics"]),
     ("12111dca-94d7-512d-9e0b-1b076de59d82", SVG_DECRESCENDO, "Decrescendo / Diminuendo: Gradually getting softer", "Dynamics", ["dynamics"]),
     ("4f38f85e-cfa9-58ca-b428-bdbb946bd9b0", "rfz", "Rinforzando: Suddenly reinforced", "Dynamics", ["dynamics"]),
-    ("582c7cd2-ab4c-506c-8b35-4ef6b2dfbd46", ".", "Staccato: Short and detached (dot above/below note)", "Articulation", ["articulation"]),
+    ("582c7cd2-ab4c-506c-8b35-4ef6b2dfbd46", SVG_STACCATO_EX, "Staccato: Short and detached (dot above/below note)", "Articulation", ["articulation"]),
     ("dea357ad-aeb3-59b9-bb47-803b72c1f1f9", "𝅘𝅥𝅾", "Staccatissimo: Very short and detached", "Articulation", ["articulation"]),
     ("0a975e55-41c3-5077-8713-1f8c637f8b67", SVG_SLUR, "Legato: Smooth and connected", "Articulation", ["articulation"]),
-    ("e47d757c-51e4-596c-bf23-0f82818dee91", "-", "Tenuto: Held for its full value (line above/below note)", "Articulation", ["articulation"]),
-    ("69e2fd43-bee1-5d36-936f-d7fb82de57ec", "^", "Marcato: Strongly accented", "Articulation", ["articulation"]),
-    ("ce05c8bc-6447-5809-9601-633b8b303022", ">", "Accent: Emphasized", "Articulation", ["articulation"]),
+    ("e47d757c-51e4-596c-bf23-0f82818dee91", SVG_TENUTO_EX, "Tenuto: Held for its full value (line above/below note)", "Articulation", ["articulation"]),
+    ("69e2fd43-bee1-5d36-936f-d7fb82de57ec", SVG_MARCATO_EX, "Marcato: Strongly accented", "Articulation", ["articulation"]),
+    ("ce05c8bc-6447-5809-9601-633b8b303022", SVG_ACCENT_EX, "Accent: Emphasized", "Articulation", ["articulation"]),
     ("6d6a8ab8-e192-5a03-a574-873bfde5c2a0", "Portato", "Semi-staccato, pulses between notes", "Articulation", ["articulation"]),
     ("40468115-0eeb-5360-aefb-490b0cf25b27", "𝄞", "Treble Clef: G-clef, used for high pitches", "Symbol", ["symbol"]),
     ("13cc217c-bc6e-5cea-b83c-06f0795e0c91", "𝄢", "Bass Clef: F-clef, used for low pitches", "Symbol", ["symbol"]),
@@ -81,15 +91,15 @@ cards_data = [
     ("2987ed94-399d-5606-8c46-497a5a33cdb0", SVG_TIE, "Tie: Connects two notes of the same pitch", "Rhythm", ["rhythm"]),
     ("0a975e55-41c3-5077-8713-1f8c637f8b67", SVG_SLUR, "Slur: Connects notes of different pitches", "Rhythm", ["rhythm"]),
     ("bad8de26-49b6-50e2-8bec-0c439db3389f", "Beam", "Connects stems of eighth/sixteenth notes", "Rhythm", ["rhythm"]),
-    ("5ffdb3fb-5e50-5e5d-a95b-099c646c7765", "Dot (after note)", "Increases note value by half", "Rhythm", ["rhythm"]),
-    ("1c0e4f93-1f9a-5003-8841-717f1bde1365", "Double Dot (after note)", "Increases note value by 3/4", "Rhythm", ["rhythm"]),
+    ("5ffdb3fb-5e50-5e5d-a95b-099c646c7765", SVG_DOT_EX, "Dot (after note): Increases note value by half", "Rhythm", ["rhythm"]),
+    ("1c0e4f93-1f9a-5003-8841-717f1bde1365", SVG_DOUBLE_DOT_EX, "Double Dot (after note): Increases note value by 3/4", "Rhythm", ["rhythm"]),
     ("2a5066f8-ff34-521b-b00d-b19e44b72f5d", "tr", "Trill: Rapid alternation between two notes", "Ornament", ["ornament"]),
     ("6230f423-8c6e-5e4f-ab95-fae464534340", SVG_MORDENT_UPPER, "Upper Mordent: Single alternation with note above", "Ornament", ["ornament"]),
     ("d01040b5-e533-5667-b191-e3d25ca6273f", SVG_MORDENT_LOWER, "Lower (Inverted) Mordent: Single alternation with note below", "Ornament", ["ornament"]),
     ("8d5d9677-a485-51b9-96c2-f69bbe1f0b22", "𝆗", "Turn: Note above, note, note below, note", "Ornament", ["ornament"]),
     ("dc930161-b13f-5f3a-98ed-9208c4239f7c", "𝆘", "Inverted Turn: Note below, note, note above, note", "Ornament", ["ornament"]),
-    ("2455b9b1-2dde-51e7-80b4-bd56a891fc72", "𝆕", "Appoggiatura: Leaning note (takes half the main note value)", "Ornament", ["ornament"]),
-    ("cd89be6b-9947-5a86-862f-91b50bee3284", "𝆔", "Acciaccatura: Grace note, 'crushed' note", "Ornament", ["ornament"]),
+    ("2455b9b1-2dde-51e7-80b4-bd56a891fc72", SVG_APPOGGIATURA, "Appoggiatura: Leaning note (takes half the main note value)", "Ornament", ["ornament"]),
+    ("cd89be6b-9947-5a86-862f-91b50bee3284", SVG_ACCIACCATURA, "Acciaccatura: Grace note, 'crushed' note", "Ornament", ["ornament"]),
     ("f7e5fde7-648a-5501-a22e-f8718a3d3ac8", "Glissando", "Continuous slide between pitches", "Ornament", ["ornament"]),
     ("e57ecd3e-8086-5743-833c-08bdcf23ffc0", "D.C.", "Da Capo: From the beginning", "Form", ["form"]),
     ("19ed6638-a4c5-5202-a6c8-ec95e61e2c4d", "D.S.", "Dal Segno: From the sign", "Form", ["form"]),
@@ -124,7 +134,7 @@ cards_data = [
     ("7b602378-904f-508f-a689-e052799bdf4a", "Con sordino", "With mute", "Other", ["other"]),
     ("17f936c3-947a-54f0-9c2c-32dc967cff8e", "Senza sordino", "Without mute", "Other", ["other"]),
     ("24ba2a7b-5d08-5f0f-8fcd-df2cf08f9142", SVG_ARPEGGIO, "Arpeggio: Notes of a chord played in succession", "Other", ["other"]),
-    ("d07c8331-6850-5a7c-b724-2709bc9429b5", "𝄐", "Fermata: Hold the note longer than indicated", "Other", ["other"]),
+    ("d07c8331-6850-5a7c-b724-2709bc9429b5", SVG_FERMATA_EX, "Fermata: Hold the note longer than indicated", "Other", ["other"]),
     ("39e8f21a-49c1-5564-908e-215b5accaaea", "G.P.", "Grand Pause: Entire ensemble pauses", "Other", ["other"]),
     ("b9b2a46b-9a6b-5ac9-a8fc-35f7f571c271", "//", "Caesura: A pause or break in music", "Other", ["other"]),
     ("fd9fb649-05e9-5750-adf2-e6459eb64d7b", "Simile", "Continue in a similar manner", "Other", ["other"]),
