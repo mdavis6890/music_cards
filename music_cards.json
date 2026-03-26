@@ -923,7 +923,7 @@
       "crowdanki_uuid": "6230f423-8c6e-5e4f-ab95-fae464534340",
       "guid": "6230f423-8",
       "fields": [
-        "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><ellipse cx=\"60\" cy=\"30\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 60 30)\"/><path d=\"M 64 30 L 64 5\" stroke=\"black\" stroke-width=\"1.5\"/><path d=\"M 45 10 Q 47.5 5 50 10 Q 52.5 15 55 10 Q 57.5 5 60 10 Q 62.5 15 65 10 Q 67.5 5 70 10\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>",
+        "<svg width=\"100\" height=\"60\" viewBox=\"0 0 200 200\"><g style=\"fill:none;stroke:gray;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.25;\"><path d=\"m 0,52 200,0\"/><path d=\"m 0,76 200,0\"/><path d=\"m 0,100 200,0\"/><path d=\"m 0,124 200,0\"/><path d=\"m 0,148 200,0\"/></g><path d=\"m 87.9,148 -2,0 0,-81 c 0,-4.1 2.4,-7.1 5,-10 4.2,-3.5 8.8,-4.7 14,-4.7 6.4,0 10,4.1 10,8.3 -0.3,8.6 -12.3,16 -19.6,15.7 -2.7,-0.1 -6.1,-1.5 -7.4,-2 z\" fill=\"black\"/><path d=\"m 71,27.9 14,-14.7 12.6,10.7 10.4,-10.8 13.5,11 5.7,-6.3 0,4.7 L 114.9,36 101.8,25.2 92.1,36.3 78.7,25.2 71,33.7 z\" fill=\"black\"/></svg>",
         "Upper Mordent: Single alternation with note above",
         "Ornament",
         "2026-03-26"
@@ -938,7 +938,7 @@
       "crowdanki_uuid": "d01040b5-e533-5667-b191-e3d25ca6273f",
       "guid": "d01040b5-e",
       "fields": [
-        "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><ellipse cx=\"60\" cy=\"30\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 60 30)\"/><path d=\"M 64 30 L 64 5\" stroke=\"black\" stroke-width=\"1.5\"/><path d=\"M 45 10 Q 47.5 5 50 10 Q 52.5 15 55 10 Q 57.5 5 60 10 Q 62.5 15 65 10 Q 67.5 5 70 10\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M 57.5 2 L 57.5 18\" fill=\"none\" stroke=\"black\" stroke-width=\"1.5\" stroke-linecap=\"round\"/></svg>",
+        "<svg width=\"100\" height=\"60\" viewBox=\"0 0 200 200\"><g style=\"fill:none;stroke:gray;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.25;\"><path d=\"m 0,52 200,0\"/><path d=\"m 0,76 200,0\"/><path d=\"m 0,100 200,0\"/><path d=\"m 0,124 200,0\"/><path d=\"m 0,148 200,0\"/></g><path d=\"m 87.9,148 -2,0 0,-81 c 0,-4.1 2.4,-7.1 5,-10 4.2,-3.5 8.8,-4.7 14,-4.7 6.4,0 10,4.1 10,8.3 -0.3,8.6 -12.3,16 -19.6,15.7 -2.7,-0.1 -6.1,-1.5 -7.4,-2 z\" fill=\"black\"/><path d=\"m 71,27.9 14,-14.7 12.6,10.7 10.4,-10.8 13.5,11 5.7,-6.3 0,4.7 L 114.9,36 101.8,25.2 92.1,36.3 78.7,25.2 71,33.7 z\" fill=\"black\"/><rect x=\"95\" y=\"10\" width=\"4\" height=\"28\" fill=\"black\"/></svg>",
         "Lower (Inverted) Mordent: Single alternation with note below",
         "Ornament",
         "2026-03-26"
