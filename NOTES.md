@@ -33,3 +33,7 @@ Generate 150+ music theory flashcards (terms, symbols, tempo indications) in Cro
 ## Next Steps
 - User to re-import `music_cards.json` into Anki using the CrowdAnki add-on to apply the latest visual updates.
 - Maintain and update this deck as needed.
+
+## Tips for Symbol Updates
+- When searching for high-quality musical symbols, search **wikimedia.org** for `{term} svg` to find accurate vector paths for new graphics.
+

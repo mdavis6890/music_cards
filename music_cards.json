@@ -52,8 +52,17 @@
           "media": []
         },
         {
-          "name": "Last Updated",
+          "name": "Reference Link",
           "ord": 3,
+          "sticky": false,
+          "rtl": false,
+          "font": "Arial",
+          "size": 14,
+          "media": []
+        },
+        {
+          "name": "Last Updated",
+          "ord": 4,
           "sticky": false,
           "rtl": false,
           "font": "Arial",
@@ -72,7 +81,7 @@
           "name": "Card 1",
           "ord": 0,
           "qfmt": "<div style=\"font-family: Arial; font-size: 14px; color: gray; margin-bottom: 10px;\">{{Category}}</div><div style=\"font-family: Arial; font-size: 32px; text-align: center;\">{{Front}}</div>",
-          "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<div style=\"font-family: Arial; font-size: 20px; text-align: center;\">{{Back}}</div>\n<div style=\"font-family: Arial; font-size: 12px; color: gray; text-align: center; margin-top: 20px;\">Updated: {{Last Updated}}</div>"
+          "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<div style=\"font-family: Arial; font-size: 20px; text-align: center;\">{{Back}}</div>\n<div style=\"font-family: Arial; font-size: 14px; text-align: center; margin-top: 15px;\">{{Reference Link}}</div>\n<div style=\"font-family: Arial; font-size: 12px; color: gray; text-align: center; margin-top: 20px;\">Updated: {{Last Updated}}</div>"
         }
       ]
     }
@@ -86,7 +95,8 @@
         "Grave",
         "Very slow and solemn (20–40 BPM)",
         "Tempo",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Tempo\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -101,7 +111,8 @@
         "Largo",
         "Slow and broad (40–60 BPM)",
         "Tempo",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Tempo\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -116,7 +127,8 @@
         "Lento",
         "Slow (40–60 BPM)",
         "Tempo",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Tempo\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -131,7 +143,8 @@
         "Adagio",
         "Slow, at ease (66–76 BPM)",
         "Tempo",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Tempo\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -146,7 +159,8 @@
         "Adagietto",
         "Slightly faster than adagio (70–80 BPM)",
         "Tempo",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Tempo\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -161,7 +175,8 @@
         "Andante",
         "At a walking pace (76–108 BPM)",
         "Tempo",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Tempo\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -176,7 +191,8 @@
         "Andantino",
         "Slightly faster than andante (80–108 BPM)",
         "Tempo",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Tempo\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -191,7 +207,8 @@
         "Moderato",
         "Moderately (108–120 BPM)",
         "Tempo",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Tempo\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -206,7 +223,8 @@
         "Allegretto",
         "Moderately fast (112–120 BPM)",
         "Tempo",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Tempo\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -221,7 +239,8 @@
         "Allegro",
         "Fast, quickly and bright (120–156 BPM)",
         "Tempo",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Tempo\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -236,7 +255,8 @@
         "Vivace",
         "Lively and fast (156–176 BPM)",
         "Tempo",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Tempo\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -251,7 +271,8 @@
         "Presto",
         "Very fast (168–200 BPM)",
         "Tempo",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Tempo\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -266,7 +287,8 @@
         "Prestissimo",
         "Even faster than presto (200+ BPM)",
         "Tempo",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Tempo\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -281,7 +303,8 @@
         "accel.",
         "Accelerando: Gradually getting faster",
         "Tempo Change",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Tempo\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -296,7 +319,8 @@
         "rall.",
         "Rallentando: Gradually getting slower",
         "Tempo Change",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Tempo\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -311,7 +335,8 @@
         "rit.",
         "Ritardando: Gradually getting slower",
         "Tempo Change",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Tempo\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -326,7 +351,8 @@
         "riten.",
         "Ritenuto: Suddenly slower, held back",
         "Tempo Change",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Tempo\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -341,7 +367,8 @@
         "A tempo",
         "Return to the original tempo",
         "Tempo Change",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Tempo\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -356,7 +383,8 @@
         "Rubato",
         "Flexible tempo, 'stolen' time",
         "Tempo Change",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Tempo\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -371,7 +399,8 @@
         "Stringendo",
         "Pressing forward, getting faster",
         "Tempo Change",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Tempo\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -386,7 +415,8 @@
         "pp",
         "Pianissimo: Very soft",
         "Dynamics",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Dynamics_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -401,7 +431,8 @@
         "p",
         "Piano: Soft",
         "Dynamics",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Dynamics_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -416,7 +447,8 @@
         "mp",
         "Mezzo-piano: Moderately soft",
         "Dynamics",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Dynamics_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -431,7 +463,8 @@
         "mf",
         "Mezzo-forte: Moderately loud",
         "Dynamics",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Dynamics_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -446,7 +479,8 @@
         "f",
         "Forte: Loud",
         "Dynamics",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Dynamics_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -461,7 +495,8 @@
         "ff",
         "Fortissimo: Very loud",
         "Dynamics",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Dynamics_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -476,7 +511,8 @@
         "sfz",
         "Sforzando: Suddenly loud, forced",
         "Dynamics",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Dynamics_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -491,7 +527,8 @@
         "<svg width=\"100\" height=\"40\" viewBox=\"0 0 100 40\"><path d=\"M 10 20 L 90 5 M 10 20 L 90 35\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
         "Crescendo: Gradually getting louder",
         "Dynamics",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Dynamics_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -506,7 +543,8 @@
         "<svg width=\"100\" height=\"40\" viewBox=\"0 0 100 40\"><path d=\"M 10 5 L 90 20 M 10 35 L 90 20\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
         "Decrescendo / Diminuendo: Gradually getting softer",
         "Dynamics",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Dynamics_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -521,7 +559,8 @@
         "rfz",
         "Rinforzando: Suddenly reinforced",
         "Dynamics",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Dynamics_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -536,7 +575,8 @@
         "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><ellipse cx=\"60\" cy=\"30\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 60 30)\"/><path d=\"M 64 30 L 64 5\" stroke=\"black\" stroke-width=\"1.5\"/><circle cx=\"60\" cy=\"40\" r=\"2\" fill=\"black\"/></svg>",
         "Staccato: Short and detached (dot above/below note)",
         "Articulation",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Staccato\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -551,7 +591,8 @@
         "𝅘𝅥𝅾",
         "Staccatissimo: Very short and detached",
         "Articulation",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/%F0%9D%85%9F%F0%9D%85%BE\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -566,7 +607,8 @@
         "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><ellipse cx=\"30\" cy=\"40\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 30 40)\"/><path d=\"M 34 40 L 34 15\" stroke=\"black\" stroke-width=\"1.5\"/><ellipse cx=\"70\" cy=\"30\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 70 30)\"/><path d=\"M 74 30 L 74 10\" stroke=\"black\" stroke-width=\"1.5\"/><path d=\"M 32 45 Q 50 55 68 35\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
         "Legato: Smooth and connected",
         "Articulation",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Legato\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -581,7 +623,8 @@
         "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><ellipse cx=\"60\" cy=\"30\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 60 30)\"/><path d=\"M 64 30 L 64 5\" stroke=\"black\" stroke-width=\"1.5\"/><path d=\"M 52 40 L 68 40\" stroke=\"black\" stroke-width=\"2\"/></svg>",
         "Tenuto: Held for its full value (line above/below note)",
         "Articulation",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Tenuto\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -596,7 +639,8 @@
         "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><ellipse cx=\"60\" cy=\"30\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 60 30)\"/><path d=\"M 64 30 L 64 5\" stroke=\"black\" stroke-width=\"1.5\"/><path d=\"M 54 48 L 60 40 L 66 48\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
         "Marcato: Strongly accented",
         "Articulation",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Marcato\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -611,7 +655,8 @@
         "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><ellipse cx=\"60\" cy=\"30\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 60 30)\"/><path d=\"M 64 30 L 64 5\" stroke=\"black\" stroke-width=\"1.5\"/><path d=\"M 52 40 L 68 45 L 52 50\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
         "Accent: Emphasized",
         "Articulation",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Accent\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -626,7 +671,8 @@
         "Portato",
         "Semi-staccato, pulses between notes",
         "Articulation",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Portato\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -641,7 +687,8 @@
         "𝄞",
         "Treble Clef: G-clef, used for high pitches",
         "Symbol",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/%F0%9D%84%9E\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -656,7 +703,8 @@
         "𝄢",
         "Bass Clef: F-clef, used for low pitches",
         "Symbol",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/%F0%9D%84%A2\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -671,7 +719,8 @@
         "𝄡 (on 3rd line)",
         "Alto Clef: C-clef centered on 3rd line",
         "Symbol",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/%F0%9D%84%A1_on_3rd_line\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -686,7 +735,8 @@
         "𝄡 (on 4th line)",
         "Tenor Clef: C-clef centered on 4th line",
         "Symbol",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/%F0%9D%84%A1_on_4th_line\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -701,7 +751,8 @@
         "Grand Staff",
         "Treble and Bass staves joined by a brace",
         "Symbol",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Grand_Staff\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -716,7 +767,8 @@
         "Ledger Lines",
         "Short lines above/below the staff",
         "Symbol",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Ledger_line\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -731,7 +783,8 @@
         "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><path d=\"M 50 10 L 50 50\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
         "Bar Line: Vertical line dividing measures",
         "Symbol",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Bar_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -746,7 +799,8 @@
         "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><path d=\"M 45 10 L 45 50 M 55 10 L 55 50\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
         "Double Bar Line: Two lines indicating a new section",
         "Symbol",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Double_Bar_Line\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -761,7 +815,8 @@
         "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><path d=\"M 42 10 L 42 50\" fill=\"none\" stroke=\"black\" stroke-width=\"1.5\"/><path d=\"M 52 10 L 52 50\" fill=\"none\" stroke=\"black\" stroke-width=\"5\"/></svg>",
         "Final Bar Line: Indicates the end of the piece",
         "Symbol",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Final_Bar_Line\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -776,7 +831,8 @@
         "𝄴",
         "Common Time: 4/4 time signature",
         "Rhythm",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/%F0%9D%84%B4\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -791,7 +847,8 @@
         "𝄵",
         "Cut Time: 2/2 time signature",
         "Rhythm",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/%F0%9D%84%B5\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -806,7 +863,8 @@
         "Time Signature",
         "Tells beats per measure and beat value",
         "Rhythm",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Time_Signature\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -821,7 +879,8 @@
         "Measure / Bar",
         "A segment of time defined by beats",
         "Rhythm",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Measure_/_Bar\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -836,7 +895,8 @@
         "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><ellipse cx=\"30\" cy=\"30\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 30 30)\"/><path d=\"M 34 30 L 34 10\" stroke=\"black\" stroke-width=\"1.5\"/><ellipse cx=\"70\" cy=\"30\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 70 30)\"/><path d=\"M 74 30 L 74 10\" stroke=\"black\" stroke-width=\"1.5\"/><path d=\"M 32 35 Q 50 45 68 35\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
         "Tie: Connects two notes of the same pitch",
         "Rhythm",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Tie\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -851,7 +911,8 @@
         "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><ellipse cx=\"30\" cy=\"40\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 30 40)\"/><path d=\"M 34 40 L 34 15\" stroke=\"black\" stroke-width=\"1.5\"/><ellipse cx=\"70\" cy=\"30\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 70 30)\"/><path d=\"M 74 30 L 74 10\" stroke=\"black\" stroke-width=\"1.5\"/><path d=\"M 32 45 Q 50 55 68 35\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/></svg>",
         "Slur: Connects notes of different pitches",
         "Rhythm",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Slur\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -866,7 +927,8 @@
         "Beam",
         "Connects stems of eighth/sixteenth notes",
         "Rhythm",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Beam\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -881,7 +943,8 @@
         "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><ellipse cx=\"60\" cy=\"30\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 60 30)\"/><path d=\"M 64 30 L 64 5\" stroke=\"black\" stroke-width=\"1.5\"/><circle cx=\"75\" cy=\"30\" r=\"2\" fill=\"black\"/></svg>",
         "Dot (after note): Increases note value by half",
         "Rhythm",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Dot_after_note\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -896,7 +959,8 @@
         "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><ellipse cx=\"60\" cy=\"30\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 60 30)\"/><path d=\"M 64 30 L 64 5\" stroke=\"black\" stroke-width=\"1.5\"/><circle cx=\"75\" cy=\"30\" r=\"2\" fill=\"black\"/><circle cx=\"85\" cy=\"30\" r=\"2\" fill=\"black\"/></svg>",
         "Double Dot (after note): Increases note value by 3/4",
         "Rhythm",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Double_Dot_after_note\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -911,7 +975,8 @@
         "tr",
         "Trill: Rapid alternation between two notes",
         "Ornament",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Ornament_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -926,7 +991,8 @@
         "<svg width=\"100\" height=\"60\" viewBox=\"0 0 200 200\"><g style=\"fill:none;stroke:gray;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.25;\"><path d=\"m 0,52 200,0\"/><path d=\"m 0,76 200,0\"/><path d=\"m 0,100 200,0\"/><path d=\"m 0,124 200,0\"/><path d=\"m 0,148 200,0\"/></g><path d=\"m 87.9,148 -2,0 0,-81 c 0,-4.1 2.4,-7.1 5,-10 4.2,-3.5 8.8,-4.7 14,-4.7 6.4,0 10,4.1 10,8.3 -0.3,8.6 -12.3,16 -19.6,15.7 -2.7,-0.1 -6.1,-1.5 -7.4,-2 z\" fill=\"black\"/><path d=\"m 71,27.9 14,-14.7 12.6,10.7 10.4,-10.8 13.5,11 5.7,-6.3 0,4.7 L 114.9,36 101.8,25.2 92.1,36.3 78.7,25.2 71,33.7 z\" fill=\"black\"/></svg>",
         "Upper Mordent: Single alternation with note above",
         "Ornament",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Ornament_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -941,7 +1007,8 @@
         "<svg width=\"100\" height=\"60\" viewBox=\"0 0 200 200\"><g style=\"fill:none;stroke:gray;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.25;\"><path d=\"m 0,52 200,0\"/><path d=\"m 0,76 200,0\"/><path d=\"m 0,100 200,0\"/><path d=\"m 0,124 200,0\"/><path d=\"m 0,148 200,0\"/></g><path d=\"m 87.9,148 -2,0 0,-81 c 0,-4.1 2.4,-7.1 5,-10 4.2,-3.5 8.8,-4.7 14,-4.7 6.4,0 10,4.1 10,8.3 -0.3,8.6 -12.3,16 -19.6,15.7 -2.7,-0.1 -6.1,-1.5 -7.4,-2 z\" fill=\"black\"/><path d=\"m 71,27.9 14,-14.7 12.6,10.7 10.4,-10.8 13.5,11 5.7,-6.3 0,4.7 L 114.9,36 101.8,25.2 92.1,36.3 78.7,25.2 71,33.7 z\" fill=\"black\"/><path d=\"m 99,6.4 0,38\" fill=\"none\" stroke=\"black\" stroke-width=\"4\"/></svg>",
         "Lower (Inverted) Mordent: Single alternation with note below",
         "Ornament",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Ornament_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -953,10 +1020,11 @@
       "crowdanki_uuid": "8d5d9677-a485-51b9-96c2-f69bbe1f0b22",
       "guid": "8d5d9677-a",
       "fields": [
-        "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><ellipse cx=\"60\" cy=\"30\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 60 30)\"/><path d=\"M 64 30 L 64 5\" stroke=\"black\" stroke-width=\"1.5\"/><path d=\"M 45 10 Q 45 2 52.5 2 Q 60 2 60 10 Q 60 18 67.5 18 Q 75 18 75 10\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\"/></svg>",
+        "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><ellipse cx=\"60\" cy=\"30\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 60 30)\"/><path d=\"M 64 30 L 64 5\" stroke=\"black\" stroke-width=\"1.5\"/><path d=\"M 45 10 c -0.4 0.04 -0.84 0.13 -1.31 0.27 c -0.47 0.14 -0.91 0.28 -1.31 0.43 c -1.46 0.62 -2.69 1.51 -3.66 2.69 c -0.98 1.18 -1.65 2.55 -2.01 4.12 c -0.07 0.5 -0.1 1.13 -0.1 1.9 c 0.01 0.77 0.06 1.43 0.17 2 c 0.37 1.83 1.08 3.37 2.13 4.6 c 1.05 1.24 2.32 2.04 3.83 2.42 c 1.39 0.3 2.71 0.25 3.94 -0.18 c 1.23 -0.42 2.12 -1.12 2.66 -2.09 c 0.28 -0.57 0.43 -1.17 0.43 -1.78 c 0 -0.62 -0.14 -1.23 -0.43 -1.84 c -0.83 -1.39 -2.03 -2.12 -3.59 -2.2 c -1.57 -0.08 -2.78 0.54 -3.65 1.85 l -0.35 0.5 l -0.43 -0.14 c -0.75 -0.27 -1.34 -0.72 -1.76 -1.37 c -0.42 -0.64 -0.61 -1.35 -0.59 -2.11 c 0.08 -0.69 0.36 -1.28 0.85 -1.79 c 0.49 -0.51 1.13 -0.86 1.92 -1.05 c 0.52 -0.1 1.15 -0.11 1.89 -0.02 c 0.74 0.09 1.46 0.26 2.16 0.51 c 0.91 0.32 1.88 0.85 2.92 1.6 c 1.04 0.75 2.46 1.92 4.25 3.51 c 2.26 1.99 4.15 3.47 5.67 4.45 c 1.52 0.98 2.97 1.65 4.34 2 c 1.77 0.46 3.49 0.47 5.16 0.04 c 1.68 -0.43 3.15 -1.27 4.42 -2.52 c 1.34 -1.34 2.21 -2.92 2.63 -4.75 c 0.07 -0.5 0.1 -1.13 0.1 -1.9 c -0.01 -0.77 -0.06 -1.43 -0.17 -2 c -0.37 -1.83 -1.08 -3.37 -2.13 -4.6 c -1.05 -1.24 -2.32 -2.04 -3.83 -2.42 c -1.39 -0.3 -2.71 -0.25 -3.94 0.18 c -1.23 0.42 -2.12 1.12 -2.66 2.09 c -0.28 0.57 -0.43 1.17 -0.43 1.78 c 0 0.62 0.14 1.23 0.43 1.84 c 0.83 1.39 2.03 2.12 3.59 2.2 c 1.57 0.08 2.78 -0.54 3.65 -1.85 l 0.35 -0.5 l 0.43 0.14 c 0.75 0.27 1.34 0.72 1.76 1.37 c 0.42 0.64 0.61 1.35 0.59 2.11 c -0.08 0.69 -0.36 1.28 -0.85 1.79 c -0.49 0.51 -1.13 0.86 -1.92 1.05 c -0.52 0.1 -1.15 0.11 -1.89 0.02 c -0.74 -0.09 -1.46 -0.26 -2.16 -0.51 c -0.91 -0.32 -1.88 -0.85 -2.92 -1.6 c -1.04 -0.75 -2.46 -1.92 -4.25 -3.51 c -2.26 -1.99 -4.15 -3.49 -5.67 -4.48 c -1.52 -0.99 -2.97 -1.65 -4.34 -1.98 c -1.34 -0.34 -2.64 -0.44 -3.9 -0.28 z\" fill=\"black\"/></svg>",
         "Turn: Note above, note, note below, note",
         "Ornament",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Ornament_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -968,10 +1036,11 @@
       "crowdanki_uuid": "dc930161-b13f-5f3a-98ed-9208c4239f7c",
       "guid": "dc930161-b",
       "fields": [
-        "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><ellipse cx=\"60\" cy=\"30\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 60 30)\"/><path d=\"M 64 30 L 64 5\" stroke=\"black\" stroke-width=\"1.5\"/><path d=\"M 45 10 Q 45 18 52.5 18 Q 60 18 60 10 Q 60 2 67.5 2 Q 75 2 75 10\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" stroke-linecap=\"round\"/></svg>",
+        "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><ellipse cx=\"60\" cy=\"30\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 60 30)\"/><path d=\"M 64 30 L 64 5\" stroke=\"black\" stroke-width=\"1.5\"/><g transform=\"translate(60, 15) scale(1, -1) translate(-60, -15)\"><path d=\"M 45 10 c -0.4 0.04 -0.84 0.13 -1.31 0.27 c -0.47 0.14 -0.91 0.28 -1.31 0.43 c -1.46 0.62 -2.69 1.51 -3.66 2.69 c -0.98 1.18 -1.65 2.55 -2.01 4.12 c -0.07 0.5 -0.1 1.13 -0.1 1.9 c 0.01 0.77 0.06 1.43 0.17 2 c 0.37 1.83 1.08 3.37 2.13 4.6 c 1.05 1.24 2.32 2.04 3.83 2.42 c 1.39 0.3 2.71 0.25 3.94 -0.18 c 1.23 -0.42 2.12 -1.12 2.66 -2.09 c 0.28 -0.57 0.43 -1.17 0.43 -1.78 c 0 -0.62 -0.14 -1.23 -0.43 -1.84 c -0.83 -1.39 -2.03 -2.12 -3.59 -2.2 c -1.57 -0.08 -2.78 0.54 -3.65 1.85 l -0.35 0.5 l -0.43 -0.14 c -0.75 -0.27 -1.34 -0.72 -1.76 -1.37 c -0.42 -0.64 -0.61 -1.35 -0.59 -2.11 c 0.08 -0.69 0.36 -1.28 0.85 -1.79 c 0.49 -0.51 1.13 -0.86 1.92 -1.05 c 0.52 -0.1 1.15 -0.11 1.89 -0.02 c 0.74 0.09 1.46 0.26 2.16 0.51 c 0.91 0.32 1.88 0.85 2.92 1.6 c 1.04 0.75 2.46 1.92 4.25 3.51 c 2.26 1.99 4.15 3.47 5.67 4.45 c 1.52 0.98 2.97 1.65 4.34 2 c 1.77 0.46 3.49 0.47 5.16 0.04 c 1.68 -0.43 3.15 -1.27 4.42 -2.52 c 1.34 -1.34 2.21 -2.92 2.63 -4.75 c 0.07 -0.5 0.1 -1.13 0.1 -1.9 c -0.01 -0.77 -0.06 -1.43 -0.17 -2 c -0.37 -1.83 -1.08 -3.37 -2.13 -4.6 c -1.05 -1.24 -2.32 -2.04 -3.83 -2.42 c -1.39 -0.3 -2.71 -0.25 -3.94 0.18 c -1.23 0.42 -2.12 1.12 -2.66 2.09 c -0.28 0.57 -0.43 1.17 -0.43 1.78 c 0 0.62 0.14 1.23 0.43 1.84 c 0.83 1.39 2.03 2.12 3.59 2.2 c 1.57 0.08 2.78 -0.54 3.65 -1.85 l 0.35 -0.5 l 0.43 0.14 c 0.75 0.27 1.34 0.72 1.76 1.37 c 0.42 0.64 0.61 1.35 0.59 2.11 c -0.08 0.69 -0.36 1.28 -0.85 1.79 c -0.49 0.51 -1.13 0.86 -1.92 1.05 c -0.52 0.1 -1.15 0.11 -1.89 0.02 c -0.74 -0.09 -1.46 -0.26 -2.16 -0.51 c -0.91 -0.32 -1.88 -0.85 -2.92 -1.6 c -1.04 -0.75 -2.46 -1.92 -4.25 -3.51 c -2.26 -1.99 -4.15 -3.49 -5.67 -4.48 c -1.52 -0.99 -2.97 -1.65 -4.34 -1.98 c -1.34 -0.34 -2.64 -0.44 -3.9 -0.28 z\" fill=\"black\"/></g></svg>",
         "Inverted Turn: Note below, note, note above, note",
         "Ornament",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Ornament_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -986,7 +1055,8 @@
         "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><ellipse cx=\"35\" cy=\"20\" rx=\"3.5\" ry=\"2.8\" fill=\"black\" transform=\"rotate(-15 35 20)\"/><path d=\"M 38 20 L 38 2\" stroke=\"black\" stroke-width=\"1\"/><path d=\"M 35 25 Q 47 35 58 32\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><ellipse cx=\"60\" cy=\"30\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 60 30)\"/><path d=\"M 64 30 L 64 5\" stroke=\"black\" stroke-width=\"1.5\"/></svg>",
         "Appoggiatura: Leaning note (takes half the main note value)",
         "Ornament",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Ornament_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1001,7 +1071,8 @@
         "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><ellipse cx=\"35\" cy=\"20\" rx=\"3.5\" ry=\"2.8\" fill=\"black\" transform=\"rotate(-15 35 20)\"/><path d=\"M 38 20 L 38 2\" stroke=\"black\" stroke-width=\"1\"/><path d=\"M 32 12 L 44 4\" stroke=\"black\" stroke-width=\"1\"/><path d=\"M 35 25 Q 47 35 58 32\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><ellipse cx=\"60\" cy=\"30\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 60 30)\"/><path d=\"M 64 30 L 64 5\" stroke=\"black\" stroke-width=\"1.5\"/></svg>",
         "Acciaccatura: Grace note, 'crushed' note",
         "Ornament",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Ornament_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1016,7 +1087,8 @@
         "Glissando",
         "Continuous slide between pitches",
         "Ornament",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Ornament_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1031,7 +1103,8 @@
         "D.C.",
         "Da Capo: From the beginning",
         "Form",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/D.C.\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1046,7 +1119,8 @@
         "D.S.",
         "Dal Segno: From the sign",
         "Form",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/D.S.\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1061,7 +1135,8 @@
         "𝄋",
         "Segno: The sign used with D.S.",
         "Form",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/%F0%9D%84%8B\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1076,7 +1151,8 @@
         "𝄌",
         "Coda: Tail, closing section",
         "Form",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/%F0%9D%84%8C\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1091,7 +1167,8 @@
         "Fine",
         "The end",
         "Form",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Fine\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1106,7 +1183,8 @@
         "𝄆 𝄇",
         "Repeat Sign: Repeat the music between the dots",
         "Form",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/%F0%9D%84%86_%F0%9D%84%87\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1121,7 +1199,8 @@
         "First Ending",
         "Play the first time through a repeat",
         "Form",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/First_Ending\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1136,7 +1215,8 @@
         "Second Ending",
         "Play the second time through a repeat",
         "Form",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Second_Ending\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1151,7 +1231,8 @@
         "Cantabile",
         "In a singing style",
         "Expression",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Cantabile\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1166,7 +1247,8 @@
         "Dolce",
         "Sweetly",
         "Expression",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Dolce\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1181,7 +1263,8 @@
         "Espressivo",
         "Expressively",
         "Expression",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Espressivo\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1196,7 +1279,8 @@
         "Grazioso",
         "Gracefully",
         "Expression",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Grazioso\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1211,7 +1295,8 @@
         "Leggiero",
         "Lightly",
         "Expression",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Leggiero\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1226,7 +1311,8 @@
         "Maestoso",
         "Majestically",
         "Expression",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Maestoso\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1241,7 +1327,8 @@
         "Molto",
         "Very, much",
         "Expression",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Molto\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1256,7 +1343,8 @@
         "Poco a poco",
         "Little by little",
         "Expression",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Poco_a_poco\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1271,7 +1359,8 @@
         "Sempre",
         "Always",
         "Expression",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Sempre\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1286,7 +1375,8 @@
         "Subito",
         "Suddenly",
         "Expression",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Subito\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1301,7 +1391,8 @@
         "Agitato",
         "Agitated",
         "Expression",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Agitato\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1316,7 +1407,8 @@
         "Animato",
         "Animated",
         "Expression",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Animato\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1331,7 +1423,8 @@
         "Brillante",
         "Brilliant",
         "Expression",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Brillante\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1346,7 +1439,8 @@
         "Con brio",
         "With spirit/vigor",
         "Expression",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Con_brio\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1361,7 +1455,8 @@
         "Con fuoco",
         "With fire",
         "Expression",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Con_fuoco\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1376,7 +1471,8 @@
         "Morendo",
         "Dying away",
         "Expression",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Morendo\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1391,7 +1487,8 @@
         "Pesante",
         "Heavy",
         "Expression",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Pesante\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1406,7 +1503,8 @@
         "Scherzando",
         "Joking, playful",
         "Expression",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Scherzando\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1421,7 +1519,8 @@
         "Sotto voce",
         "In an undertone, quiet",
         "Expression",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Sotto_voce\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1436,7 +1535,8 @@
         "Tranquillo",
         "Tranquil",
         "Expression",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Tranquillo\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1451,7 +1551,8 @@
         "8va",
         "Octave: Play an octave higher",
         "Other",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/8va\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1466,7 +1567,8 @@
         "8vb",
         "Octave below: Play an octave lower",
         "Other",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/8vb\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1481,7 +1583,8 @@
         "Con sordino",
         "With mute",
         "Other",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Con_sordino\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1496,7 +1599,8 @@
         "Senza sordino",
         "Without mute",
         "Other",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Senza_sordino\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1511,7 +1615,8 @@
         "<svg width=\"100\" height=\"60\" viewBox=\"0 0 200 200\"><g style=\"fill:none;stroke:gray;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.25;\"><path d=\"m 0,52 200,0\"/><path d=\"m 0,76 200,0\"/><path d=\"m 0,100 200,0\"/><path d=\"m 0,124 200,0\"/><path d=\"m 0,148 200,0\"/></g><path d=\"M 64.5,147.5 C 61,143.3 61.3,141 66,135.9 C 68.2,133.5 70,130.9 70,130.1 C 70,129.2 68.2,126.2 66,123.4 C 63.8,120.7 62,117.6 62,116.5 C 62,115.5 63.8,112.6 66,110.1 C 68.2,107.5 70,104.9 70,104.2 C 70,103.5 68.2,101 66,98.8 C 63.7,96.5 62,93.7 62,92.5 C 62,91.3 63.8,88.3 66,85.9 C 68.2,83.6 70,80.9 70,80.1 C 70,79.2 68.2,76.2 66,73.4 C 63.8,70.7 62,67.6 62,66.5 C 62,65.5 63.8,62.6 66,60.1 C 70.3,55.1 70.3,54.4 69,51.5 C 67.3,48.5 69.5,49.2 72.4,52.6 C 76,56.8 75.6,58.9 71,63.9 C 68.8,66.3 67,69.1 67,70.2 C 67,71.2 68.8,74.3 71,76.9 C 73.2,79.6 75,82.6 75,83.7 C 75,84.5 73.2,87.6 71,89.9 C 68.8,92.3 67,94.9 67,95.6 C 67,96.3 68.8,98.8 71,101.2 C 73,103.6 75,106.4 75,107.6 C 75,108.7 73.2,111.6 71,113.9 C 68.8,116.3 67,119.1 67,120.2 C 67,121.1 68.8,124.3 71,126.9 C 73.2,129.6 75,132.6 75,133.7 C 75,134.7 73.2,137.6 71,139.9 C 67,144.2 66,146.9 68,148.1 C 68.5,148.4 69,149.1 69,149.6 C 69,151.4 67.1,150.5 64.5,147.5 z M 108.8,134 C 103.2,132.3 99,127.7 99,123.4 C 99,119.3 104.4,113.8 109.3,112.7 C 113.8,111.7 115.9,111.7 118.3,111.3 C 116.3,111.1 111.6,110.5 109.3,110.1 C 104.2,109.1 99,103.8 99,99.6 C 99,95.3 104.3,90.3 109.3,88.8 C 112.1,87.9 114.5,87.5 116.6,87.3 C 114.8,87.1 111.6,86.5 109.3,86.1 C 104.3,85.2 99,79.8 99,75.7 C 99,63.9 124,59.1 134.5,69 C 137,71.4 138,73.2 138,75.4 C 138,79.6 133.8,84.3 128.6,85.7 C 125.7,86.6 124.2,87.3 121.7,87.8 C 124,88.1 124.6,88.5 126.8,88.9 C 132.9,90.1 138,95.2 138,99.4 C 138,103.6 133.8,108.3 128.6,109.7 C 125.7,110.6 123.1,111.4 120.9,111.5 C 122.9,111.7 123.8,111.8 126.8,112.9 C 132,114.7 138,119.2 138,123.4 C 138,132.6 122.6,138.2 108.8,134 z M 125.6,131 C 128.6,126.4 125.7,117.1 120.4,114.7 C 112.6,111.2 107.8,117.2 111.1,126.5 C 113.3,132.9 122.4,135.8 125.6,131 z M 125.6,107 C 128.6,102.4 125.7,93.1 120.4,90.7 C 112.6,87.2 107.8,93.2 111.1,102.5 C 113.3,108.9 122.4,111.8 125.6,107 z M 125.6,83 C 128.6,78.4 125.7,69.1 120.4,66.7 C 112.6,63.2 107.8,69.2 111.1,78.5 C 113.3,84.9 122.4,87.8 125.6,83 z\" fill=\"black\"/></svg>",
         "Arpeggio: Notes of a chord played in succession",
         "Other",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Arpeggio\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1523,10 +1628,11 @@
       "crowdanki_uuid": "d07c8331-6850-5a7c-b724-2709bc9429b5",
       "guid": "d07c8331-6",
       "fields": [
-        "<svg width=\"100\" height=\"60\" viewBox=\"0 0 100 60\"><path d=\"M 10 10 L 90 10 M 10 20 L 90 20 M 10 30 L 90 30 M 10 40 L 90 40 M 10 50 L 90 50\" fill=\"none\" stroke=\"gray\" stroke-width=\"1\"/><ellipse cx=\"60\" cy=\"30\" rx=\"5\" ry=\"4\" fill=\"black\" transform=\"rotate(-15 60 30)\"/><path d=\"M 64 30 L 64 5\" stroke=\"black\" stroke-width=\"1.5\"/><path d=\"M 45 50 Q 60 35 75 50\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"46\" r=\"2\" fill=\"black\"/></svg>",
+        "<svg width=\"100\" height=\"60\" viewBox=\"0 0 200 200\"><g style=\"fill:none;stroke:gray;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.25;\"><path d=\"m 0,52 200,0\"/><path d=\"m 0,76 200,0\"/><path d=\"m 0,100 200,0\"/><path d=\"m 0,124 200,0\"/><path d=\"m 0,148 200,0\"/></g><path d=\"m 112.1,52.2 2,0 0,81 c 0,4.1 -2.4,7.1 -5,10 -4.2,3.5 -8.8,4.7 -14,4.7 -6.4,0 -10,-4.1 -10,-8.3 0.3,-8.6 12.3,-16 19.6,-15.7 2.7,0.1 6.1,1.5 7.4,2 z\" fill=\"black\"/><path d=\"M 68,36 C 68,25.5 76.6,3 99.4,3 120.1,3 130.9,23.2 131,36 l -3.6,0 C 127.7,30.9 121,11.8 99.5,12 83.5,12.1 71.2,24.4 71.4,36 z\" fill=\"black\"/><path d=\"m 104,31 a 3.5,3.5 0 1 1 -9.5,0 3.5,3.5 0 1 1 9.5,0 z\" fill=\"black\"/></svg>",
         "Fermata: Hold the note longer than indicated",
         "Other",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Fermata\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1541,7 +1647,8 @@
         "G.P.",
         "Grand Pause: Entire ensemble pauses",
         "Other",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/G.P.\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1556,7 +1663,8 @@
         "//",
         "Caesura: A pause or break in music",
         "Other",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki///\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1571,7 +1679,8 @@
         "Simile",
         "Continue in a similar manner",
         "Other",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Simile\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1586,7 +1695,8 @@
         "Allargando",
         "Broadening, getting slower and louder",
         "Tempo",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Tempo\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1601,7 +1711,8 @@
         "Giocoso",
         "Joyful, merry",
         "Expression",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Giocoso\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1616,7 +1727,8 @@
         "Meno Mosso",
         "Less motion (slower)",
         "Tempo Change",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Tempo\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1631,7 +1743,8 @@
         "Più Mosso",
         "More motion (faster)",
         "Tempo Change",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Tempo\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1646,7 +1759,8 @@
         "Agnus Dei",
         "Lamb of God (often used in Requiem/Mass)",
         "Term",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Agnus_Dei\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1661,7 +1775,8 @@
         "Cadenza",
         "Ornamental passage for a soloist",
         "Form",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Cadenza\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1676,7 +1791,8 @@
         "Concerto",
         "Work for soloist and orchestra",
         "Form",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Concerto\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1691,7 +1807,8 @@
         "Symphony",
         "Large work for orchestra",
         "Form",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Symphony\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1706,7 +1823,8 @@
         "Libretto",
         "The text of an opera",
         "Term",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Libretto\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1721,7 +1839,8 @@
         "Vibrato",
         "Small fluctuation in pitch",
         "Expression",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Vibrato\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1736,7 +1855,8 @@
         "Enharmonic",
         "Notes that sound the same but have different names (e.g., C# and Db)",
         "Term",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Enharmonic\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1751,7 +1871,8 @@
         "Diatonic",
         "Belonging to the current scale or key",
         "Term",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Diatonic\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1766,7 +1887,8 @@
         "Chromatic",
         "Using notes outside the current scale/key",
         "Term",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Chromatic\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1781,7 +1903,8 @@
         "Syncopation",
         "Emphasizing the weak beats or off-beats",
         "Rhythm",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Syncopation\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1796,7 +1919,8 @@
         "Transposition",
         "Shifting music to a different pitch level",
         "Term",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Transposition\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1811,7 +1935,8 @@
         "Modulation",
         "Changing from one key to another",
         "Term",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Modulation\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1826,7 +1951,8 @@
         "Relative Key",
         "Major and minor keys that share the same key signature",
         "Term",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Relative_Key\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1841,7 +1967,8 @@
         "Parallel Key",
         "Major and minor keys that share the same tonic",
         "Term",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Parallel_Key\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1856,7 +1983,8 @@
         "Alberti Bass",
         "A broken chord accompaniment pattern",
         "Expression",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Alberti_Bass\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1871,7 +1999,8 @@
         "Ostinato",
         "A continually repeated musical phrase or rhythm",
         "Form",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Ostinato\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1886,7 +2015,8 @@
         "Sequence",
         "Restatement of a motif at a higher or lower pitch",
         "Form",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Sequence\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1899,9 +2029,10 @@
       "guid": "fe75373c-5",
       "fields": [
         "Inversion",
-        "Turning a melody or chord upside down",
+        "Playing a chord when the lowest note is not the root.",
         "Term",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Inversion\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1916,7 +2047,8 @@
         "Cadence",
         "A melodic or harmonic configuration that creates a sense of resolution",
         "Form",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Cadence\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1931,7 +2063,8 @@
         "Picardy Third",
         "Ending a minor-key piece with a major chord",
         "Term",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Picardy_Third\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1946,7 +2079,8 @@
         "Motif",
         "A short musical idea or fragment",
         "Form",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Motif\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1961,7 +2095,8 @@
         "Theme",
         "A complete musical thought used as a building block",
         "Form",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Theme\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1976,7 +2111,8 @@
         "Counterpoint",
         "The relationship between independent melodic lines",
         "Form",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Counterpoint\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -1991,7 +2127,8 @@
         "Fugue",
         "A contrapuntal composition based on a main theme (subject)",
         "Form",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Fugue\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2006,7 +2143,8 @@
         "Suite",
         "A collection of short musical pieces",
         "Form",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Suite\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2021,7 +2159,8 @@
         "Overture",
         "An introductory piece to an opera or larger work",
         "Form",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Overture\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2036,7 +2175,8 @@
         "Oratorio",
         "A large-scale musical work for orchestra and voices, usually on a religious theme",
         "Form",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Oratorio\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2051,7 +2191,8 @@
         "Aria",
         "A self-contained piece for a single voice, usually in an opera",
         "Form",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Aria\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2066,7 +2207,8 @@
         "Recitative",
         "A style of delivery in which a singer is allowed to adopt the rhythms of ordinary speech",
         "Form",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Recitative\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2081,7 +2223,8 @@
         "Chorus",
         "A large group of singers",
         "Term",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Chorus\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2096,7 +2239,8 @@
         "Timbre",
         "The quality or 'color' of a sound",
         "Expression",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Timbre\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2111,7 +2255,8 @@
         "Texture",
         "How melodic, rhythmic, and harmonic materials are combined",
         "Term",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Texture\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2126,7 +2271,8 @@
         "Monophony",
         "A single melodic line without accompaniment",
         "Term",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Monophony\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2141,7 +2287,8 @@
         "Polyphony",
         "Multiple independent melodic lines",
         "Term",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Polyphony\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2156,7 +2303,8 @@
         "Homophony",
         "A primary melody with chordal accompaniment",
         "Term",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Homophony\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2171,7 +2319,8 @@
         "Heterophony",
         "Multiple versions of the same melody played simultaneously",
         "Term",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Heterophony\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2186,7 +2335,8 @@
         "Consonance",
         "Stable, pleasant-sounding intervals or chords",
         "Expression",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Consonance\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2201,7 +2351,8 @@
         "Dissonance",
         "Unstable, harsh-sounding intervals or chords",
         "Expression",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Dissonance\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2216,7 +2367,8 @@
         "Resolution",
         "Movement from dissonance to consonance",
         "Expression",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Resolution\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2231,7 +2383,8 @@
         "Atonality",
         "Absence of a tonal center or key",
         "Term",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Atonality\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2246,7 +2399,8 @@
         "Bitonality",
         "Use of two different keys simultaneously",
         "Term",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Bitonality\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2261,7 +2415,8 @@
         "Polytonality",
         "Use of multiple keys simultaneously",
         "Term",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Polytonality\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2276,7 +2431,8 @@
         "Microtonality",
         "Use of intervals smaller than a semitone",
         "Term",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Microtonality\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2291,7 +2447,8 @@
         "Pentatonic Scale",
         "A five-note scale",
         "Term",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Pentatonic_Scale\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2306,7 +2463,8 @@
         "Whole Tone Scale",
         "A scale consisting entirely of whole steps",
         "Term",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Whole_Tone_Scale\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2321,7 +2479,8 @@
         "Chromatic Scale",
         "A scale consisting entirely of half steps",
         "Term",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Chromatic_Scale\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2336,7 +2495,8 @@
         "Octatonic Scale",
         "An eight-note scale alternating whole and half steps",
         "Term",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Octatonic_Scale\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2351,7 +2511,8 @@
         "♯",
         "Sharp: Raises a note by a half step",
         "Symbol",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/%E2%99%AF\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2366,7 +2527,8 @@
         "♭",
         "Flat: Lowers a note by a half step",
         "Symbol",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/%E2%99%AD\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2381,7 +2543,8 @@
         "♮",
         "Natural: Cancels a previous sharp or flat",
         "Symbol",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/%E2%99%AE\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2396,7 +2559,8 @@
         "𝄪",
         "Double Sharp: Raises a note by a whole step",
         "Symbol",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/%F0%9D%84%AA\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2411,7 +2575,8 @@
         "𝄫",
         "Double Flat: Lowers a note by a whole step",
         "Symbol",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/%F0%9D%84%AB\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2426,7 +2591,8 @@
         "Major Second",
         "An interval of 2 semitones (e.g., C to D)",
         "Interval",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Interval_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2441,7 +2607,8 @@
         "Minor Second",
         "An interval of 1 semitone (e.g., C to Db)",
         "Interval",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Interval_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2456,7 +2623,8 @@
         "Major Third",
         "An interval of 4 semitones (e.g., C to E)",
         "Interval",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Interval_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2471,7 +2639,8 @@
         "Minor Third",
         "An interval of 3 semitones (e.g., C to Eb)",
         "Interval",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Interval_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2486,7 +2655,8 @@
         "Perfect Fourth",
         "An interval of 5 semitones (e.g., C to F)",
         "Interval",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Interval_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2501,7 +2671,8 @@
         "Tritone",
         "An interval of 6 semitones (Augmented 4th / Diminished 5th)",
         "Interval",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Interval_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2516,7 +2687,8 @@
         "Perfect Fifth",
         "An interval of 7 semitones (e.g., C to G)",
         "Interval",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Interval_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2531,7 +2703,8 @@
         "Major Sixth",
         "An interval of 9 semitones (e.g., C to A)",
         "Interval",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Interval_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2546,7 +2719,8 @@
         "Minor Sixth",
         "An interval of 8 semitones (e.g., C to Ab)",
         "Interval",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Interval_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2561,7 +2735,8 @@
         "Major Seventh",
         "An interval of 11 semitones (e.g., C to B)",
         "Interval",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Interval_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2576,7 +2751,8 @@
         "Minor Seventh",
         "An interval of 10 semitones (e.g., C to Bb)",
         "Interval",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Interval_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
@@ -2591,7 +2767,8 @@
         "Perfect Octave",
         "An interval of 12 semitones (e.g., C to C)",
         "Interval",
-        "2026-03-27"
+        "<a href=\"https://en.wikipedia.org/wiki/Interval_(music)\" style=\"color: #0066cc; text-decoration: none;\">Learn More</a>",
+        "2026-03-29"
       ],
       "note_model_uuid": "573afed7-aff4-4afd-8d78-b99fde01ff84",
       "tags": [
