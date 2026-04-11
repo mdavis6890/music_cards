@@ -201,18 +201,18 @@ cards_data = [
     ("f31fb3cf-0a98-5cf5-941d-dd912752fcd2", "♮", "Natural: Cancels a previous sharp or flat", "Symbol", "https://en.wikipedia.org/wiki/%E2%99%AE", ["symbol"]),
     ("87ac8f68-f015-58ed-9614-86e08113ac29", "𝄪", "Double Sharp: Raises a note by a whole step", "Symbol", "https://en.wikipedia.org/wiki/%F0%9D%84%AA", ["symbol"]),
     ("df3d330c-39f3-572a-8d02-b0d860006815", "𝄫", "Double Flat: Lowers a note by a whole step", "Symbol", "https://en.wikipedia.org/wiki/%F0%9D%84%AB", ["symbol"]),
-    ("01915202-1121-5610-8125-8cf5c8ecaf67", "Major Second", "An interval of 2 semitones (e.g., C to D)", "Interval", "https://en.wikipedia.org/wiki/Interval_(music)", ["interval"]),
-    ("bd25baa6-b59e-5e8b-9e06-1bea368433fc", "Minor Second", "An interval of 1 semitone (e.g., C to Db)", "Interval", "https://en.wikipedia.org/wiki/Interval_(music)", ["interval"]),
-    ("bada120e-9fb5-5c3c-8440-89cd2e3218ec", "Major Third", "An interval of 4 semitones (e.g., C to E)", "Interval", "https://en.wikipedia.org/wiki/Interval_(music)", ["interval"]),
-    ("975becf1-f6a8-55c2-b6fb-54dfbb44be74", "Minor Third", "An interval of 3 semitones (e.g., C to Eb)", "Interval", "https://en.wikipedia.org/wiki/Interval_(music)", ["interval"]),
-    ("e3a55620-cd67-5b24-a01f-15c61b674267", "Perfect Fourth", "An interval of 5 semitones (e.g., C to F)", "Interval", "https://en.wikipedia.org/wiki/Interval_(music)", ["interval"]),
-    ("ec23429b-a0e0-5caa-8ea9-252884aea175", "Tritone", "An interval of 6 semitones (Augmented 4th / Diminished 5th)", "Interval", "https://en.wikipedia.org/wiki/Interval_(music)", ["interval"]),
-    ("2a663145-50e8-5e9e-ab6e-5a797d36918f", "Perfect Fifth", "An interval of 7 semitones (e.g., C to G)", "Interval", "https://en.wikipedia.org/wiki/Interval_(music)", ["interval"]),
-    ("cbe90e1c-74d0-5e11-98f8-34c13b9cc346", "Major Sixth", "An interval of 9 semitones (e.g., C to A)", "Interval", "https://en.wikipedia.org/wiki/Interval_(music)", ["interval"]),
-    ("1d2fc571-1ddb-5f52-834c-1136f1d3791c", "Minor Sixth", "An interval of 8 semitones (e.g., C to Ab)", "Interval", "https://en.wikipedia.org/wiki/Interval_(music)", ["interval"]),
-    ("fee773a3-0475-5676-a585-a19377dd4e15", "Major Seventh", "An interval of 11 semitones (e.g., C to B)", "Interval", "https://en.wikipedia.org/wiki/Interval_(music)", ["interval"]),
-    ("d3df7588-cb78-5d7c-8f11-a88908e1145b", "Minor Seventh", "An interval of 10 semitones (e.g., C to Bb)", "Interval", "https://en.wikipedia.org/wiki/Interval_(music)", ["interval"]),
-    ("bc7e248f-42f0-5a4d-aa91-7dbd2f80bca7", "Perfect Octave", "An interval of 12 semitones (e.g., C to C)", "Interval", "https://en.wikipedia.org/wiki/Interval_(music)", ["interval"])
+    ("01915202-1121-5610-8125-8cf5c8ecaf67", "Major Second", "An interval of 2 semitones (e.g., C to D)<br><br><i>Example: Happy Birthday</i>", "Interval", "https://en.wikipedia.org/wiki/Interval_(music)", ["interval"]),
+    ("bd25baa6-b59e-5e8b-9e06-1bea368433fc", "Minor Second", "An interval of 1 semitone (e.g., C to Db)<br><br><i>Example: Jaws Theme</i>", "Interval", "https://en.wikipedia.org/wiki/Interval_(music)", ["interval"]),
+    ("bada120e-9fb5-5c3c-8440-89cd2e3218ec", "Major Third", "An interval of 4 semitones (e.g., C to E)<br><br><i>Example: Oh When the Saints</i>", "Interval", "https://en.wikipedia.org/wiki/Interval_(music)", ["interval"]),
+    ("975becf1-f6a8-55c2-b6fb-54dfbb44be74", "Minor Third", "An interval of 3 semitones (e.g., C to Eb)<br><br><i>Example: Greensleeves</i>", "Interval", "https://en.wikipedia.org/wiki/Interval_(music)", ["interval"]),
+    ("e3a55620-cd67-5b24-a01f-15c61b674267", "Perfect Fourth", "An interval of 5 semitones (e.g., C to F)<br><br><i>Example: Here Comes the Bride</i>", "Interval", "https://en.wikipedia.org/wiki/Interval_(music)", ["interval"]),
+    ("ec23429b-a0e0-5caa-8ea9-252884aea175", "Tritone", "An interval of 6 semitones (Augmented 4th / Diminished 5th)<br><br><i>Example: The Simpsons Theme</i>", "Interval", "https://en.wikipedia.org/wiki/Interval_(music)", ["interval"]),
+    ("2a663145-50e8-5e9e-ab6e-5a797d36918f", "Perfect Fifth", "An interval of 7 semitones (e.g., C to G)<br><br><i>Example: Twinkle Twinkle Little Star</i>", "Interval", "https://en.wikipedia.org/wiki/Interval_(music)", ["interval"]),
+    ("cbe90e1c-74d0-5e11-98f8-34c13b9cc346", "Major Sixth", "An interval of 9 semitones (e.g., C to A)<br><br><i>Example: My Bonnie Lies Over the Ocean</i>", "Interval", "https://en.wikipedia.org/wiki/Interval_(music)", ["interval"]),
+    ("1d2fc571-1ddb-5f52-834c-1136f1d3791c", "Minor Sixth", "An interval of 8 semitones (e.g., C to Ab)<br><br><i>Example: The Entertainer</i>", "Interval", "https://en.wikipedia.org/wiki/Interval_(music)", ["interval"]),
+    ("fee773a3-0475-5676-a585-a19377dd4e15", "Major Seventh", "An interval of 11 semitones (e.g., C to B)<br><br><i>Example: Take On Me (chorus)</i>", "Interval", "https://en.wikipedia.org/wiki/Interval_(music)", ["interval"]),
+    ("d3df7588-cb78-5d7c-8f11-a88908e1145b", "Minor Seventh", "An interval of 10 semitones (e.g., C to Bb)<br><br><i>Example: Star Trek Theme</i>", "Interval", "https://en.wikipedia.org/wiki/Interval_(music)", ["interval"]),
+    ("bc7e248f-42f0-5a4d-aa91-7dbd2f80bca7", "Perfect Octave", "An interval of 12 semitones (e.g., C to C)<br><br><i>Example: Somewhere Over the Rainbow</i>", "Interval", "https://en.wikipedia.org/wiki/Interval_(music)", ["interval"])
 ]
 
 notes = []
